@@ -12,9 +12,9 @@ Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino re
  
 ## Descrição: 
 
-Projeto do circuito esquemático e layout da placa de circuito impresso (PCB) MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa MICROTB_UTFPR permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad ou BluePill para aplicações de Sistemas Microcontrolados envolvendo automação, controle e IoT.
+Projeto do circuito esquemático e layout da placa de circuito impresso (PCB) MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa MICROTB_UTFPR permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad ou BluePill para aplicações de Sistemas Microcontrolados envolvendo automação, controle e IoT, entre outras.
 
-Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0)
+Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0) como apoio no desenvolvimento dos Recursos Educacionais Abertos (REA).
 
 ## Equipe: 
  
