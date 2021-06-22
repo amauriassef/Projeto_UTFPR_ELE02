@@ -21,7 +21,7 @@ Projeto do circuito esquemático e layout da placa de circuito impresso (PCB) MI
 
 Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0) como apoio no desenvolvimento dos Recursos Educacionais Abertos (REA).
 
-Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) “são materiais de aprendizado, ensino e pesquisa em qualquerformato e mídia de domínio público ou com direitos autorais liberados sob uma licença aberta, que permitem acesso, reuti lização sem custo,adaptação e redistribuição gratuita” [(UNESCO, 2019)](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/publications/oer_guidelines_pt.pdf).
+Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) “são materiais de aprendizado, ensino e pesquisa em qualquer formato e mídia de domínio público ou com direitos autorais liberados sob uma licença aberta, que permitem acesso, reutilização sem custo, adaptação e redistribuição gratuita” [(UNESCO, 2019)](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/publications/oer_guidelines_pt.pdf).
 
 ## Equipe: 
  
@@ -46,7 +46,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
-* Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e Blue Pill
+* Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e BluePill
 * 2 Displays de 7 segmentos do tipo catodo comum
 * 8 LEDs
 * Sensor de temperatura LM35
@@ -97,6 +97,6 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 ## Informação de licença 
 
-Esta material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
+Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ![Licença Logo](/Figuras/by-nc-sa.png)
