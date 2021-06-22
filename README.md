@@ -3,12 +3,20 @@
 ## Universidade Tecnológica Federal do Paraná (UTFPR)
 
 Departamento Acadêmico de Eletrotécnica (DAELT) - Campus Curitiba
+
 Departamento Acadêmico de Eletrônica (DAELN) - Campus Curitiba
+
 Departamento Acadêmico de Eletrônica (DALEN) - Campus Curitiba
 
-Título: Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto  
+## Título: 
+
+Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto - Projeto ELE02 
  
-Descrição: Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0)
+## Descrição: 
+
+Projeto do circuito esquemático e circuito impresso da placa MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/).
+
+Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0)
 
 ## Equipe: 
  
@@ -27,11 +35,52 @@ Descrição: Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área tem
 * Cáled Tarique Pereira – Voluntário – http://lattes.cnpq.br/5596843081337675
  
 ## Documentação:
-Hookup Guide - Basic hookup guide for the ESP32 Thing.
-SparkFun Fritzing repo - Fritzing diagrams for SparkFun products.
-SparkFun 3D Model repo - 3D models of SparkFun products.
-SparkFun Graphical Datasheets -Graphical Datasheets for various SparkFun products.
-Product Versions
-DEV-13907 - Initial release of the ESP32 Thing.
-Version History
-V_1.0 - Initial release of the ESP32 Thing 
+
+* BOM_MICROTB - Lista de material (bill of material) da placa MICRO_TB_UTFPR.
+
+* CAD_EAGLE_9_6_2_MICROTB - Projeto do circuito esquemático e layout da placa MICRO_TB_UTFPR.
+
+* LIB_MICROTB - Biblioteca com os componentes do circuito esquemático e placa MICRO_TB_UTFPR.
+
+* PDF_PCB_MICROTB - Arquivos em formato PDF para visualização do circuito esquemático e projeto da placa.
+
+Obs: após abrir a PCB no Eagle clicar em Ratsnest para mostrar os planos de GND dos layers *top* e *bottom*.
+
+## Versão do projeto
+
+MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
+
+* Permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad e Blue Pill
+
+* 2 Displays de 7 segmentos do tipo catodo comum
+
+* 8 LEDs
+
+* Sensor de temperatura LM35
+
+* Driver L293D para motor de passo e CC
+
+* Conector para placa ESP8266
+
+* Conector para placa Bluetooth HC-05/06
+
+* Conector para servomotor
+
+* Conector para sensor ultrassônico HC-04
+
+* Conector para sensor de sensor de pressão BMP280
+
+* Display LCD 16x2
+
+* Potenciômetro para leitura analógica
+
+* Alimentação pela USB ou fonte externa de 9 V
+
+## Histórico de versão 
+
+V_1.0 - Versão inicial da placa MICROTB_UTFPR 
+
+## Informação de licença 
+
+Esse produto é *open source*!
+
