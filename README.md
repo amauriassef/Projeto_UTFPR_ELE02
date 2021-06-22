@@ -59,7 +59,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 ## Informação de licença 
 
-Esse produto é *open source*!
+Esse material é *open source*!
 
 ## Links com informações sobre a placa TIVA™ C Series TM4C123G LaunchPad
 
