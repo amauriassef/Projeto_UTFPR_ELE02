@@ -41,11 +41,11 @@ Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sis
 
 * [**BOM_MICROTB**](/BOM_MICROTB) - Lista de material (bill of material) da placa MICRO_TB_UTFPR.
 
-* [**CAD_EAGLE_9_6_2_MICROTB**](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e layout da placa MICRO_TB_UTFPR.
+* [**CAD_EAGLE_9_6_2_MICROTB**](/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e layout da placa MICRO_TB_UTFPR.
 
-* [**LIB_MICROTB**](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/LIB_MICROTB) - Biblioteca com os componentes do circuito esquemático e placa MICRO_TB_UTFPR.
+* [**LIB_MICROTB**](/LIB_MICROTB) - Biblioteca com os componentes do circuito esquemático e placa MICRO_TB_UTFPR.
 
-* [**PDF_PCB_MICROTB**](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/PDF_PCB_MICROTB) - Arquivos em formato PDF para visualização do circuito esquemático e projeto da placa.
+* [**PDF_PCB_MICROTB**](/PDF_PCB_MICROTB) - Arquivos em formato PDF para visualização do circuito esquemático e projeto da placa.
 
 Obs: após abrir a PCB no Eagle clicar em Ratsnest para mostrar os planos de GND dos layers *top* e *bottom*.
 
