@@ -3,6 +3,7 @@
  Título: Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto
  
  Equipe: 
+ 
  Amauri Amorin Assef – Coordenador – http://lattes.cnpq.br/0720172921923496
  
  Guilherme Luiz Moritz – Colaborador – http://lattes.cnpq.br/0736175449254807
