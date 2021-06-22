@@ -16,6 +16,8 @@ Projeto do circuito esquemático e layout da placa de circuito impresso (PCB) MI
 
 Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0) como apoio no desenvolvimento dos Recursos Educacionais Abertos (REA).
 
+Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) “são materiais de aprendizado, ensino e pesquisa em qualquerformato e mídia de domínio público ou com direitos autorais liberados sob uma licença aberta, que permitem acesso, reuti lização sem custo,adaptação e redistribuição gratuita” [(UNESCO, 2019)](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/publications/oer_guidelines_pt.pdf).
+
 ## Equipe: 
  
 * Amauri Amorin Assef – Coordenador – http://lattes.cnpq.br/0720172921923496
