@@ -73,6 +73,7 @@ Esse material é *open source*!
 
 ## Links com informações sobre as placas BluePill e BlackPill
 
+* [STM32world.com wiki](https://stm32world.com/wiki/Main_Page)
 * [ST Flasher](https://github.com/stlink-org/stlink/releases)
 * [Bluepill - Informações Gerais](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
 * [Bluepill - Esquemático (easyEDA)](https://easyeda.com/r3bers/STM32F103C8T6-Test-Board)
