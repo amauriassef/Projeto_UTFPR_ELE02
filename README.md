@@ -16,6 +16,9 @@ Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino re
 
 Projeto do circuito esquemático e circuito impresso da placa MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa MICROTB_UTFPR permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e Blue Pill para aplicações de automação envolvendo de Sistemas Microcntrolados e IoT.
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0)
 
 ## Equipe: 
@@ -36,13 +39,13 @@ Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sis
  
 ## Documentação:
 
-* [BOM_MICROTB](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/BOM_MICROTB) - Lista de material (bill of material) da placa MICRO_TB_UTFPR.
+* [**BOM_MICROTB**](/BOM_MICROTB) - Lista de material (bill of material) da placa MICRO_TB_UTFPR.
 
-* [CAD_EAGLE_9_6_2_MICROTB](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e layout da placa MICRO_TB_UTFPR.
+* [**CAD_EAGLE_9_6_2_MICROTB**](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e layout da placa MICRO_TB_UTFPR.
 
-* [LIB_MICROTB](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/LIB_MICROTB) - Biblioteca com os componentes do circuito esquemático e placa MICRO_TB_UTFPR.
+* [**LIB_MICROTB**](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/LIB_MICROTB) - Biblioteca com os componentes do circuito esquemático e placa MICRO_TB_UTFPR.
 
-* [PDF_PCB_MICROTB](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/PDF_PCB_MICROTB) - Arquivos em formato PDF para visualização do circuito esquemático e projeto da placa.
+* [**PDF_PCB_MICROTB**](https://github.com/amauriassef/Projeto_UTFPR_ELE02/tree/main/PDF_PCB_MICROTB) - Arquivos em formato PDF para visualização do circuito esquemático e projeto da placa.
 
 Obs: após abrir a PCB no Eagle clicar em Ratsnest para mostrar os planos de GND dos layers *top* e *bottom*.
 
