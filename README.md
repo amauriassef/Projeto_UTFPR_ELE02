@@ -63,6 +63,7 @@ Esse material é *open source*!
 
 ## Links com informações sobre a placa TIVA™ C Series TM4C123G LaunchPad
 
+* [Página WEB da Texas Instruments](https://www.ti.com)
 * [Tiva™ C Series TM4C123G LaunchPad Evaluation Board User’s Guide](https://www.ti.com/lit/ug/spmu296/spmu296.pdf)
 * [Tiva™ TM4C123GH6PM Microcontroller Datasheet](https://www.ti.com/lit/ds/spms376e/spms376e.pdf)
 * [Mini Curso - Getting Started with the TIVA™ C Series TM4C123G LaunchPad](http://software-dl.ti.com/trainingTTO/trainingTTO_public_sw/GSW-TM4C123G-LaunchPad/TM4C123G_LaunchPad_Workshop_Workbook.pdf)
@@ -73,6 +74,7 @@ Esse material é *open source*!
 
 ## Links com informações sobre as placas BluePill e BlackPill
 
+* [Página WEB da STMicroelectronics](https://www.st.com/content/st_com/en.html)
 * [STM32world.com wiki](https://stm32world.com/wiki/Main_Page)
 * [ST Flasher](https://github.com/stlink-org/stlink/releases)
 * [Bluepill - Informações Gerais](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
