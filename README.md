@@ -2,6 +2,10 @@
 
  Título: Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto
  
+ Descrição: Projeto aprovado no Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados
+ 
+ Link: https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0
+  
  Equipe: 
  
  Amauri Amorin Assef – Coordenador – http://lattes.cnpq.br/0720172921923496
