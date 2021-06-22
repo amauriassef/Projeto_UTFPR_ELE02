@@ -84,3 +84,18 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 Esse produto é *open source*!
 
+## Links com informações sobre o BluePill 
+
+* ST Flasher
+* Bluepill - Informações Gerais
+* Bluepill - Pinagem (easyEDA)
+* Bluepill - Esquemático
+* Bluepill - Datasheet do STM32F103C8
+* Bluepill - Reference Manual do STM32F103C8
+* Bluepill - Documentação da API do STM32F1
+* Blackpill - Informações Gerais
+* Blackpill - Pinagem (Zephyr Project)
+* Blackpill - Esquemático
+* Blackpill - Datasheet do STM32F411RE
+* Blackpill - Reference Manual do STM32F411RE
+* Blackpill - Documentação da API do STM32F4
