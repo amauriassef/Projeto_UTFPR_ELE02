@@ -1,0 +1,70 @@
+<b>Partlist exported from C:/Users/n/Desktop/MICROTB_V0/ele02_at.sch at 21/06/2021 17:13</b>
+<p>
+<table>
+<tr><td><b>Part</b></td><td><b>Value</b></td><td><b>Device</b></td><td><b>Package</b></td><td><b>Description</b></td><td><b>MF</b></td><td><b>MPN</b></td><td><b>OC_FARNELL</b></td><td><b>OC_NEWARK</b></td><td><b>POPULARITY</b></td><td><b>SPICEPREFIX</b></td></tr>
+<tr><td>C1</td><td>100nF/25V</td><td>C2.5/2</td><td>C2.5-2</td><td>CAPACITOR</td><td></td><td></td><td></td><td></td><td>28</td><td></td></tr>
+<tr><td>C2</td><td>100nF/25V</td><td>C2.5/2</td><td>C2.5-2</td><td>CAPACITOR</td><td></td><td></td><td></td><td></td><td>28</td><td></td></tr>
+<tr><td>C3</td><td>100uF/25V</td><td>CAPACITOR-PE2.5-7</td><td>E2,5-7</td><td>POLARIZED CAPACITOR, American symbol</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>C4</td><td>100nF/25V</td><td>C2.5/2</td><td>C2.5-2</td><td>CAPACITOR</td><td></td><td></td><td></td><td></td><td>28</td><td></td></tr>
+<tr><td>C5</td><td>10uF/25V</td><td>CAPACITOR-PE2.5-6</td><td>E2,5-6</td><td>POLARIZED CAPACITOR, American symbol</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>C6</td><td>100nF/25V</td><td>C2.5/2</td><td>C2.5-2</td><td>CAPACITOR</td><td></td><td></td><td></td><td></td><td>28</td><td></td></tr>
+<tr><td>C7</td><td>100nF/25V</td><td>C2.5/2</td><td>C2.5-2</td><td>CAPACITOR</td><td></td><td></td><td></td><td></td><td>28</td><td></td></tr>
+<tr><td>C8</td><td>10uF/25V</td><td>CAPACITOR-PE2.5-6</td><td>E2,5-6</td><td>POLARIZED CAPACITOR, American symbol</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>C9</td><td>100nF/25V</td><td>C2.5/2</td><td>C2.5-2</td><td>CAPACITOR</td><td></td><td></td><td></td><td></td><td>28</td><td></td></tr>
+<tr><td>C10</td><td>10uF/25V</td><td>CAPACITOR-PE2.5-6</td><td>E2,5-6</td><td>POLARIZED CAPACITOR, American symbol</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>C11</td><td>100nF/25V</td><td>C2.5/2</td><td>C2.5-2</td><td>CAPACITOR</td><td></td><td></td><td></td><td></td><td>28</td><td></td></tr>
+<tr><td>D1</td><td>1N4004</td><td>1N4004</td><td>DO41-10</td><td>DIODE</td><td></td><td></td><td></td><td></td><td>82</td><td></td></tr>
+<tr><td>DIS1</td><td>HD-H103</td><td>HD-H103</td><td>HDSP-M</td><td>LED DISPLAY</td><td></td><td></td><td>unknown</td><td>unknown</td><td>1</td><td></td></tr>
+<tr><td>DIS2</td><td>HD-H103</td><td>HD-H103</td><td>HDSP-M</td><td>LED DISPLAY</td><td></td><td></td><td>unknown</td><td>unknown</td><td>1</td><td></td></tr>
+<tr><td>IC1</td><td>LD1086</td><td>LD108605TV</td><td>LD1086</td><td>Positive VOLTAGE REGULATOR</td><td></td><td></td><td></td><td></td><td>57</td><td></td></tr>
+<tr><td>IC2</td><td>L293D</td><td>L293D</td><td>DIL16</td><td>PUSH-PULL 4 CHANNEL DRIVER</td><td></td><td>L293D</td><td>9589619</td><td>56P8249</td><td>16</td><td></td></tr>
+<tr><td>IC3</td><td>LM7805</td><td>786TV</td><td>TO220V</td><td>Positive VOLTAGE REGULATOR</td><td></td><td></td><td></td><td></td><td>0</td><td></td></tr>
+<tr><td>JP1</td><td>JP</td><td>JUMP</td><td>MA03-1</td><td>PIN HEADER</td><td></td><td></td><td>unknown</td><td>unknown</td><td>48</td><td></td></tr>
+<tr><td>JP2</td><td>JP</td><td>JUMP</td><td>MA03-1</td><td>PIN HEADER</td><td></td><td></td><td>unknown</td><td>unknown</td><td>48</td><td></td></tr>
+<tr><td>LCD1</td><td>DISPLAY_LCDDISPLAY_LCD1</td><td>DISPLAY_LCDDISPLAY_LCD1</td><td>DISPLAY_LCD_BL</td><td>LCD 16X2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>LED1</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED2</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED3</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED4</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED5</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED6</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED7</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED8</td><td>GREEN</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>LED9</td><td>RED</td><td>LED3MM</td><td>LED3MM</td><td>LED</td><td></td><td></td><td></td><td></td><td>97</td><td></td></tr>
+<tr><td>M1</td><td>TIVA</td><td>TIVA</td><td>TIVA</td><td>Conectores da placa Tiva Launch Pad</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>M2</td><td>BLUE_PILL</td><td>BLUE_PILL</td><td>BLUE_PILL</td><td>Placa Blue Pill STM 32</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>P1</td><td>SERVO</td><td>CON3</td><td>MA03-1</td><td>PIN HEADER</td><td></td><td></td><td>unknown</td><td>unknown</td><td>48</td><td></td></tr>
+<tr><td>P2</td><td>Motor</td><td>MA06-1</td><td>HC_BLUETOOTH</td><td>PIN HEADER</td><td></td><td></td><td>unknown</td><td>unknown</td><td>28</td><td></td></tr>
+<tr><td>P3</td><td>ESP8266</td><td>ESP8266</td><td>ESP8266</td><td>ESP8266 IoT</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>P4</td><td>HC05_06</td><td>HC05_06</td><td>HC_BLUETOOTH</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>P5</td><td>BMP280</td><td>BMP280</td><td>BMP280</td><td>BMP280 Sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>P6</td><td>HC-04</td><td>HC-SR04US</td><td>HS-04</td><td>HC-SR04 Sensor de US</td><td></td><td></td><td>unknown</td><td>unknown</td><td>41</td><td></td></tr>
+<tr><td>POT1</td><td>10kR</td><td>TRIM_EU-ELE02CA6V</td><td>CA6V</td><td>POTENTIOMETER</td><td></td><td></td><td></td><td></td><td>10</td><td></td></tr>
+<tr><td>POT2</td><td>10kR</td><td>TRIM_EU-CIP20C-4MM</td><td>CIP20C-4MM</td><td>POTENTIOMETER</td><td></td><td></td><td></td><td></td><td>0</td><td></td></tr>
+<tr><td>Q1</td><td>LM35L05Z</td><td>LM35L05Z</td><td>LM35</td><td>Positive VOLTAGE REGULATOR</td><td></td><td></td><td></td><td></td><td>12</td><td></td></tr>
+<tr><td>R1</td><td>  10kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R2</td><td>4k7R</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R3</td><td>  10kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R4</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R5</td><td>33R</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R6</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R7</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R8</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R9</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R10</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R11</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R12</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R13</td><td>1kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R14</td><td>4k7R</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R15</td><td>4k7R</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R16</td><td>10kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>R17</td><td>10kR</td><td>R-EU_0204/7</td><td>0204/7</td><td>RESISTOR, European symbol</td><td></td><td></td><td></td><td></td><td>79</td><td>R</td></tr>
+<tr><td>RN1</td><td>1kR</td><td>G08R</td><td>SIL9</td><td>SIL RESISTOR</td><td></td><td></td><td>unknown</td><td>unknown</td><td>6</td><td></td></tr>
+<tr><td>SW1</td><td>SW</td><td>10-XX</td><td>B3F-10XX</td><td>OMRON SWITCH</td><td></td><td>B3F-1000</td><td>176432</td><td>36M3542</td><td>72</td><td></td></tr>
+<tr><td>SW2</td><td>SW</td><td>10-XX</td><td>B3F-10XX</td><td>OMRON SWITCH</td><td></td><td>B3F-1000</td><td>176432</td><td>36M3542</td><td>72</td><td></td></tr>
+<tr><td>T1</td><td>BC337</td><td>BC337-16-NPN-TO92-CBE</td><td>TO92-CBE</td><td>NPN Transistror</td><td></td><td></td><td></td><td></td><td>0</td><td></td></tr>
+<tr><td>T2</td><td>BC337</td><td>BC337-16-NPN-TO92-CBE</td><td>TO92-CBE</td><td>NPN Transistror</td><td></td><td></td><td></td><td></td><td>0</td><td></td></tr>
+<tr><td>T3</td><td>BC337</td><td>BC337-16-NPN-TO92-CBE</td><td>TO92-CBE</td><td>NPN Transistror</td><td></td><td></td><td></td><td></td><td>0</td><td></td></tr>
+<tr><td>U$1</td><td>CC-NC-BC</td><td>CC-NC-BC</td><td>CC-NC-BY</td><td>All hardware is licensed under the Creative Commons</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>U1</td><td>POWERSUPPLY_DC21MMX</td><td>POWERSUPPLY_DC21MMX</td><td>POWERSUPPLY_DC-21MM</td><td>Conector DC21MM</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
