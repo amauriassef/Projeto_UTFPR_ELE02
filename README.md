@@ -1,6 +1,10 @@
 # Projeto_UTFPR_ELE02
 
- Título: Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto
+Universidade Tecnológica Federal do Paraná (UTFPR)
+
+Departamento Acadêmico de Eletrotécnica (DAELT)/
+
+Título: Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto
  
  Descrição: Projeto aprovado no Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados
  
