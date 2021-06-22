@@ -61,12 +61,6 @@ MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
 V_1.0 - Versão inicial da placa MICROTB_UTFPR 
 
-## Informação de licença 
-
-Esta material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
-
-![Licença Logo](/Figuras/by-nc-sa.png)
-
 ## Links com informações sobre a placa TIVA™ C Series TM4C123G LaunchPad
 
 ![Tiva Logo](/Figuras/Tiva1.jpg)
@@ -97,3 +91,9 @@ Esta material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 * [Blackpill - Datasheet do STM32F411RE](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
 * [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
+
+## Informação de licença 
+
+Esta material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+![Licença Logo](/Figuras/by-nc-sa.png)
