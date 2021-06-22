@@ -69,6 +69,8 @@ Esta material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 
 ## Links com informações sobre a placa TIVA™ C Series TM4C123G LaunchPad
 
+![Tiva Logo](/Figuras/Tiva.jpg)
+
 * [Página WEB da Texas Instruments](https://www.ti.com)
 * [Tiva™ C Series TM4C123G LaunchPad Evaluation Board User’s Guide](https://www.ti.com/lit/ug/spmu296/spmu296.pdf)
 * [Tiva™ TM4C123GH6PM Microcontroller Datasheet](https://www.ti.com/lit/ds/spms376e/spms376e.pdf)
@@ -79,6 +81,8 @@ Esta material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 * [e-Store Texas Instruments para o Launchpad](https://www.ti.com/store/ti/en/p/product/?p=EK-TM4C123GXL)
 
 ## Links com informações sobre as placas BluePill e BlackPill
+
+![Bluepill Logo](/Figuras/BluePill.jpg)
 
 * [Página WEB da STMicroelectronics](https://www.st.com/content/st_com/en.html)
 * [STM32world.com wiki](https://stm32world.com/wiki/Main_Page)
