@@ -14,7 +14,7 @@ Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino re
  
 ## Descrição: 
 
-Projeto do circuito esquemático e circuito impresso da placa MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/).
+Projeto do circuito esquemático e circuito impresso da placa MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa MICROTB_UTFPR permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e Blue Pill para aplicações de automação envolvendo de Sistemas Microcntrolados e IoT.
 
 Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2039976&id_orgao_publicacao=0)
 
@@ -50,7 +50,7 @@ Obs: após abrir a PCB no Eagle clicar em Ratsnest para mostrar os planos de GND
 
 MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
-* Permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad e Blue Pill
+* Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e Blue Pill
 
 * 2 Displays de 7 segmentos do tipo catodo comum
 
