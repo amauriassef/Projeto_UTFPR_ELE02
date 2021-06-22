@@ -40,7 +40,7 @@ Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) 
 * [**LIB_MICROTB**](/LIB_MICROTB) - Biblioteca com os componentes do circuito esquemático e placa MICRO_TB_UTFPR.
 * [**PDF_PCB_MICROTB**](/PDF_PCB_MICROTB) - Arquivos em formato PDF para visualização do circuito esquemático e projeto da placa.
 
-Obs: após abrir a PCB no software Autodesk Eagle versão 9.6.2 (© 2020 Autodesk, Inc.), clicar em Ratsnest para mostrar os planos de GND dos layers *top* e *bottom*.
+Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9.6.2 (© 2020 Autodesk, Inc.), clicar em **Ratsnest** para mostrar os planos de GND dos layers *top* e *bottom*.
 
 ## Versão do projeto
 
