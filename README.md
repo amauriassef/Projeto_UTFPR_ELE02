@@ -2,7 +2,7 @@
 
 ## Universidade Tecnológica Federal do Paraná (UTFPR) 
 
-![UTFPR Logo](/Figuras/UTFPR.png)
+![UTFPR Logo](/Figuras/UTFPR1.png)
 
 * Departamento Acadêmico de Eletrotécnica (DAELT) - Campus Curitiba
 * Departamento Acadêmico de Eletrônica (DAELN) - Campus Curitiba
