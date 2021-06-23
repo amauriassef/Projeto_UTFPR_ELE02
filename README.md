@@ -8,14 +8,14 @@
 * Departamento Acadêmico de Eletrônica (DAELN) - Campus Curitiba
 * Departamento de Eletrônica (DAELE) - Campus Ponta Grossa
 
-## Título: 
+## Título 
 
 Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto - Projeto ELE02 
  
  
 ![PCB Logo](/Figuras/PCB.PNG)
  
-## Descrição: 
+## Descrição 
 
 Projeto do circuito esquemático e layout da placa de circuito impresso (PCB) MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa MICROTB_UTFPR permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad ou BluePill para aplicações de Sistemas Microcontrolados envolvendo automação, controle e IoT, entre outras.
 
@@ -23,7 +23,7 @@ Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sis
 
 Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) “são materiais de aprendizado, ensino e pesquisa em qualquer formato e mídia de domínio público ou com direitos autorais liberados sob uma licença aberta, que permitem acesso, reutilização sem custo, adaptação e redistribuição gratuita” [(UNESCO, 2019)](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/publications/oer_guidelines_pt.pdf).
 
-## Equipe: 
+## Equipe 
  
 * Amauri Amorin Assef – Coordenador – http://lattes.cnpq.br/0720172921923496
 * Guilherme Luiz Moritz – Colaborador – http://lattes.cnpq.br/0736175449254807
@@ -33,7 +33,7 @@ Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) 
 * Murilo Paulo de Oliveira – Bolsista – http://lattes.cnpq.br/1578999659029568
 * Cáled Tarique Pereira – Voluntário – http://lattes.cnpq.br/5596843081337675
  
-## Documentação:
+## Documentação
 
 * [**BOM_MICROTB**](/BOM_MICROTB) - Lista de material (bill of material) da placa MICRO_TB_UTFPR.
 * [**CAD_EAGLE_9_6_2_MICROTB**](/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e layout da placa MICRO_TB_UTFPR.
