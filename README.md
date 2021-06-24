@@ -11,12 +11,12 @@
      + [1.5.1 Características](#151-Características)
      + [1.5.2 Versão do projeto](#152-Versão-do-projeto)
      + [1.5.3 Histórico de versão](#153-Histórico-de-versão)
+     + [1.5.4 Descrição dos sinais da placa MICRO_TB_UTFPR](#154-Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
 - [2. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
    * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
    * [2.2 Placa BluePill](#22-placa-BluePill)
    * [2.3 Placa BlackPill](#23-placa-BlackPill)
-- [3. Descrição dos sinais da placa MICRO_TB_UTFPR](#3-Descrição_dos_sinais_da_placa_MICRO_TB_UTFPR)     
-- [4. Informação de licença](#4-Informação-de-licença)     
+- [3. Informação de licença](#4-Informação-de-licença)     
 
 # 1. Projeto ELE02 
 
@@ -84,43 +84,7 @@ MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
 V_1.0 - Versão inicial da placa MICROTB_UTFPR 
 
-# 2. Links com informações sobre as placas de avaliação compatíveis
-
-## 2.1 Placa TIVA C Series TM4C123G LaunchPad
-
-![Tiva Logo](/Figuras/Tiva1.jpg)
-
-* [Página WEB da Texas Instruments](https://www.ti.com)
-* [Tiva™ C Series TM4C123G LaunchPad Evaluation Board User’s Guide](https://www.ti.com/lit/ug/spmu296/spmu296.pdf)
-* [Tiva™ TM4C123GH6PM Microcontroller Datasheet](https://www.ti.com/lit/ds/spms376e/spms376e.pdf)
-* [Mini Curso - Getting Started with the TIVA™ C Series TM4C123G LaunchPad](http://software-dl.ti.com/trainingTTO/trainingTTO_public_sw/GSW-TM4C123G-LaunchPad/TM4C123G_LaunchPad_Workshop_Workbook.pdf)
-* [Site ARM® Cortex®-M4F Based MCU TM4C123G LaunchPad™ Evaluation Kit](https://www.ti.com/tool/EK-TM4C123GXL)
-* [TivaWare™ Peripheral Driver Library User's Guide](https://www.ti.com/lit/ug/spmu298d/spmu298d.pdf)
-* [Drivers para o TM4C123 - TivaWare for C Series Software (Complete)](https://www.ti.com/tool/download/SW-TM4C)
-* [e-Store Texas Instruments para o Launchpad](https://www.ti.com/store/ti/en/p/product/?p=EK-TM4C123GXL)
-
-## 2.2 Placa BluePill
-
-![Bluepill Logo](/Figuras/BluePill1.jpg)
-
-* [Página WEB da STMicroelectronics](https://www.st.com/content/st_com/en.html)
-* [STM32world.com wiki](https://stm32world.com/wiki/Main_Page)
-* [ST Flasher](https://github.com/stlink-org/stlink/releases)
-* [Bluepill - Informações Gerais](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
-* [Bluepill - Circuito esquemático (easyEDA)](https://easyeda.com/r3bers/STM32F103C8T6-Test-Board)
-* [Bluepill - Datasheet do STM32F103C8](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
-* [Bluepill - Reference Manual do STM32F103C8](https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
-* [Bluepill - Documentação da API do STM32F1](https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
-
-## 2.3 Placa BlackPill
-
-* [Blackpill - Pinagem (Zephyr Project) e informações Gerais](https://docs.zephyrproject.org/latest/boards/arm/blackpill_f411ce/doc/index.html)
-* [Blackpill - Circuito esquemático](https://stm32-base.org/assets/pdf/boards/original-schematic-STM32F411CEU6_WeAct_Black_Pill_V2.0.pdf)
-* [Blackpill - Datasheet do STM32F411RE](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
-* [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
-* [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
-
-# 3. Descrição dos sinais da placa MICRO_TB_UTFPR:
+### 1.5.4. Descrição dos sinais da placa MICRO_TB_UTFPR
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -269,7 +233,44 @@ P5	Módulo de pressão BPM280
 P6	Módulo sensor ultrassônico HC-04
 U1	Entrada da alimentação de 9 V
 
-# 4. Informação de licença 
+
+# 2. Links com informações sobre as placas de avaliação compatíveis
+
+## 2.1 Placa TIVA C Series TM4C123G LaunchPad
+
+![Tiva Logo](/Figuras/Tiva1.jpg)
+
+* [Página WEB da Texas Instruments](https://www.ti.com)
+* [Tiva™ C Series TM4C123G LaunchPad Evaluation Board User’s Guide](https://www.ti.com/lit/ug/spmu296/spmu296.pdf)
+* [Tiva™ TM4C123GH6PM Microcontroller Datasheet](https://www.ti.com/lit/ds/spms376e/spms376e.pdf)
+* [Mini Curso - Getting Started with the TIVA™ C Series TM4C123G LaunchPad](http://software-dl.ti.com/trainingTTO/trainingTTO_public_sw/GSW-TM4C123G-LaunchPad/TM4C123G_LaunchPad_Workshop_Workbook.pdf)
+* [Site ARM® Cortex®-M4F Based MCU TM4C123G LaunchPad™ Evaluation Kit](https://www.ti.com/tool/EK-TM4C123GXL)
+* [TivaWare™ Peripheral Driver Library User's Guide](https://www.ti.com/lit/ug/spmu298d/spmu298d.pdf)
+* [Drivers para o TM4C123 - TivaWare for C Series Software (Complete)](https://www.ti.com/tool/download/SW-TM4C)
+* [e-Store Texas Instruments para o Launchpad](https://www.ti.com/store/ti/en/p/product/?p=EK-TM4C123GXL)
+
+## 2.2 Placa BluePill
+
+![Bluepill Logo](/Figuras/BluePill1.jpg)
+
+* [Página WEB da STMicroelectronics](https://www.st.com/content/st_com/en.html)
+* [STM32world.com wiki](https://stm32world.com/wiki/Main_Page)
+* [ST Flasher](https://github.com/stlink-org/stlink/releases)
+* [Bluepill - Informações Gerais](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
+* [Bluepill - Circuito esquemático (easyEDA)](https://easyeda.com/r3bers/STM32F103C8T6-Test-Board)
+* [Bluepill - Datasheet do STM32F103C8](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
+* [Bluepill - Reference Manual do STM32F103C8](https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
+* [Bluepill - Documentação da API do STM32F1](https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
+
+## 2.3 Placa BlackPill
+
+* [Blackpill - Pinagem (Zephyr Project) e informações Gerais](https://docs.zephyrproject.org/latest/boards/arm/blackpill_f411ce/doc/index.html)
+* [Blackpill - Circuito esquemático](https://stm32-base.org/assets/pdf/boards/original-schematic-STM32F411CEU6_WeAct_Black_Pill_V2.0.pdf)
+* [Blackpill - Datasheet do STM32F411RE](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
+* [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
+* [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
+
+# 3. Informação de licença 
 
 Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
