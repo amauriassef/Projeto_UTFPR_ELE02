@@ -175,7 +175,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|SEG_DP	|OUT|
 
 
-* LCD 16x2
+* Display LCD 16x2
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -224,10 +224,12 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-Conector TIVA	Pino do conector M1 (Tiva)	Sinal Tiva	Pino do conector M2 (BluePill)	Sinal BluePill	Nome do sinal final	Interface	Direção
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|BMP280_SCL	|IN
 |J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|BMP280_SDA	|OUT
+
 Observação: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP280 com a placa BluePill (PB10 – SCL e PB11 – SDA)
+
+
 
 * Sinais analógicos
 
