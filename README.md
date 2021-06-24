@@ -2,6 +2,10 @@
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/PCB.PNG"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa.PNG"/>
+</p>
+
 - [1. Projeto ELE02](#1-Projeto-ELE02)
    * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
    * [1.2 Título](#12-Título)
