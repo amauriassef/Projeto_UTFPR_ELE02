@@ -53,12 +53,12 @@ This is an h3 heading
 
 
 - [1. Projeto ELE02](#1-Projeto-ELE02)
-   * [1.1 Universidade Tecnológica Federal do Paraná](#11_Universidade-Tecnológica-Federal-do-Paraná)
+   * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
    * [1.2 Título](#12-Título)
-   * [Descrição](#Descrição)
-   * [Equipe](#Equipe)
-   * [Documentação](#Documentação)
-   * [Versão do projeto](#Versão-do-projeto)
+   * [1.3 Descrição](#13-Descrição)
+   * [1.4 Equipe](#14-Equipe)
+   * [1.5 Documentação](#15-Documentação)
+     + [1.5.1 Versão do projeto](#151-Versão-do-projeto)
    * [Histórico de versão](#Histórico-de-versão)
    * [Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad](#Links-com-informações-sobre-a-placa-TIVA-C-Series-TM4C123G-LaunchPad)
    * [Links com informações sobre as placas BluePill e BlackPill](#Links-com-informações-sobre-as-placas-BluePill-e-BlackPill)
@@ -83,7 +83,7 @@ Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino re
  
 ![PCB Logo](/Figuras/PCB.PNG)
  
-## Descrição 
+## 1.3 Descrição 
 
 Projeto do circuito esquemático e layout da placa de circuito impresso (PCB) MICROTB_UTFPR utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa MICROTB_UTFPR permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad ou BluePill para aplicações de Sistemas Microcontrolados envolvendo automação, controle e IoT, entre outras.
 
@@ -91,7 +91,7 @@ Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sis
 
 Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) “são materiais de aprendizado, ensino e pesquisa em qualquer formato e mídia de domínio público ou com direitos autorais liberados sob uma licença aberta, que permitem acesso, reutilização sem custo, adaptação e redistribuição gratuita” [(UNESCO, 2019)](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/publications/oer_guidelines_pt.pdf).
 
-## Equipe 
+## 1.4 Equipe 
  
 * Amauri Amorin Assef – Coordenador – http://lattes.cnpq.br/0720172921923496
 * Guilherme Luiz Moritz – Colaborador – http://lattes.cnpq.br/0736175449254807
@@ -101,7 +101,7 @@ Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) 
 * Murilo Paulo de Oliveira – Bolsista – http://lattes.cnpq.br/1578999659029568
 * Cáled Tarique Pereira – Voluntário – http://lattes.cnpq.br/5596843081337675
  
-## Documentação
+## 1.5 Documentação
 
 * [**BOM_MICROTB**](/BOM_MICROTB) - Lista de material (bill of material) da placa MICRO_TB_UTFPR.
 * [**CAD_EAGLE_9_6_2_MICROTB**](/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e layout da placa MICRO_TB_UTFPR.
@@ -110,7 +110,7 @@ Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) 
 
 Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9.6.2 (© 2020 Autodesk, Inc.), clicar em **Ratsnest** para mostrar os planos de GND dos layers *top* e *bottom*.
 
-## Versão do projeto
+## 1.5.1 Versão do projeto
 
 MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
