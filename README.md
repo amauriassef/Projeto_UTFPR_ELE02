@@ -12,7 +12,9 @@
      + [1.5.2 Versão do projeto](#152-Versão-do-projeto)
      + [1.5.3 Histórico de versão](#153-Histórico-de-versão)
    * [1.6 Pinagem do kit](#16-Pinagem-do-kit)
-     + [1.6.1 Descrição dos sinais da placa MICRO_TB_UTFPR](#16-1Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
+     + [1.6.1 Descrição dos sinais da placa MICRO_TB_UTFPR](#161-Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
+     + [1.6.2 Descrição dos sinais por funcionalidade](#162-Descrição-dos-sinais-por-funcionalidade) 
+        + [1.6.2 Descrição dos sinais por funcionalidade](#162-Descrição-dos-sinais-por-funcionalidade) 
 - [2. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
    * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
    * [2.2 Placa BluePill](#22-placa-BluePill)
@@ -135,7 +137,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 Observação NC significa não conectado. 
 
-### 1.6.2. Descrição dos sinais da placa MICRO_TB_UTFPR por funcionalidade
+### 1.6.2. Descrição dos sinais por funcionalidade
 
 #### 1.6.2.1 LEDs
 
