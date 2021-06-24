@@ -87,6 +87,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 ## 1.6 Pinagem do kit
 
+
 ### 1.6.1. Descrição dos sinais da placa MICRO_TB_UTFPR
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
@@ -132,8 +133,8 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J4-9	|37	|PD7	|-	|-	|-	|-	|NC|
 |J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
 
-### 1.6.2. Descrição dos sinais da placa MICRO_TB_UTFPR por funcionalidade:
 
+### 1.6.2. Descrição dos sinais da placa MICRO_TB_UTFPR por funcionalidade:
 
 * LEDs
 
