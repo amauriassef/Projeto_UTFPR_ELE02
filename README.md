@@ -244,7 +244,6 @@ Observação NC significa não conectado.
 
 #### 1.6.2.12 Sinais não conectados da placa BluePill
 
-|Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |Pino do conector M2	|Sinal BluePill	|Descrição|
 |:---:                |:---:          |:---:    |
 |3	|PC14	|OSC32IN|
