@@ -3,7 +3,7 @@
 </p>
 
 - [1. Projeto ELE02](#1-Projeto-ELE02)
-   * [1.1 Universidade Tecnológica Federal do Paraná (UTFPR)](#11-Universidade-Tecnológica-Federal-do-Paraná-(UTFPR))
+   * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
    * [1.2 Título](#12-Título)
    * [1.3 Descrição](#13-Descrição)
    * [1.4 Equipe](#14-Equipe)
@@ -20,13 +20,14 @@
 
 # 1. Projeto ELE02 
 
-## 1.1 Universidade Tecnológica Federal do Paraná (UTFPR)
+## 1.1 Universidade Tecnológica Federal do Paraná
 
 ![UTFPR Logo](/Figuras/UTFPR1.png)
 
 * Departamento Acadêmico de Eletrotécnica (DAELT) - Campus Curitiba
 * Departamento Acadêmico de Eletrônica (DAELN) - Campus Curitiba
 * Departamento de Eletrônica (DAELE) - Campus Ponta Grossa
+* Link: http://www.utfpr.edu.br/
 
 ## 1.2 Título 
 
