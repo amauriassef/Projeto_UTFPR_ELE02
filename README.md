@@ -137,7 +137,7 @@ Observação NC significa não conectado.
 
 ### 1.6.2. Descrição dos sinais da placa MICRO_TB_UTFPR por funcionalidade
 
-* LEDs
+#### 1.6.2.1 LEDs
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
