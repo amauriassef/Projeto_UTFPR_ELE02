@@ -9,14 +9,13 @@
    * [1.4 Equipe](#14-Equipe)
    * [1.5 Documentação](#15-Documentação)
      + [1.5.1 Características](#151-Característicaso)
-     + [1.5.2 Versão do projetoo](#152-Versão-do-projeto)
+     + [1.5.2 Versão do projeto](#152-Versão-do-projeto)
      + [1.5.3 Histórico de versão](#153-Histórico de versão)
-- [2. Informação de licença](#2-Informação-de-licença)     
-- [3. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
-   * [3.1 Placa TIVA C Series TM4C123G LaunchPad](#31-placa-TIVA-C-Series-TM4C123G-LaunchPad)
-   * [3.2 Placa BluePill](#32-placa-BluePill)
-   * [3.3 Placa BlackPill](#32-placa-BlackPill)
-
+- [2. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
+   * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
+   * [2.2 Placa BluePill](#22-placa-BluePill)
+   * [2.3 Placa BlackPill](#23-placa-BlackPill)
+- [3. Informação de licença](#2-Informação-de-licença)     
 
 # 1. Projeto ELE02 
 
@@ -83,7 +82,9 @@ MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
 V_1.0 - Versão inicial da placa MICROTB_UTFPR 
 
-# 2. Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad
+# 2. Links com informações sobre as placas de avaliação compatíveis
+
+## 2.1 Placa TIVA C Series TM4C123G LaunchPad
 
 ![Tiva Logo](/Figuras/Tiva1.jpg)
 
@@ -96,7 +97,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * [Drivers para o TM4C123 - TivaWare for C Series Software (Complete)](https://www.ti.com/tool/download/SW-TM4C)
 * [e-Store Texas Instruments para o Launchpad](https://www.ti.com/store/ti/en/p/product/?p=EK-TM4C123GXL)
 
-# 3. Links com informações sobre as placas BluePill e BlackPill
+## 2.2 Placa BluePill e BlackPill
 
 ![Bluepill Logo](/Figuras/BluePill1.jpg)
 
@@ -108,13 +109,16 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * [Bluepill - Datasheet do STM32F103C8](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
 * [Bluepill - Reference Manual do STM32F103C8](https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Bluepill - Documentação da API do STM32F1](https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
+
+## 2.3 Placa BlackPill
+
 * [Blackpill - Pinagem (Zephyr Project) e informações Gerais](https://docs.zephyrproject.org/latest/boards/arm/blackpill_f411ce/doc/index.html)
 * [Blackpill - Esquemático](https://stm32-base.org/assets/pdf/boards/original-schematic-STM32F411CEU6_WeAct_Black_Pill_V2.0.pdf)
 * [Blackpill - Datasheet do STM32F411RE](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
 * [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
 
-# 4. Informação de licença 
+# 3. Informação de licença 
 
 Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
