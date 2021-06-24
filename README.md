@@ -92,7 +92,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-1	        |1                          |	3,3 V     |	18, 21                        |	3,3 V         |	+3V3(TB)           |	Alimentação|	Alimentação|
-|J1-2         |3                          |	PB5       |	10                            |	PA5           |	PB5_PA5            |	LED6, SEG_F e LCD_D5       | OUT         
+|J1-2         |3                          |	PB5       |	10                            |	PA5           |	PB5_PA5            |	LED6, SEG_F e LCD_D5       | OUT    |     
 |J1-3	|5	|PB0	|5	|PA0	|PB0_PA0	|LED1 e SEG_A|	OUT|
 |J1-4	|7	|PB1	|6	|PA1	|PB1_PA1	|LED2 e SEG_B|	OUT|
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|ESP_TX, BLUETOOTH_TX e BMP280	|IN|
@@ -139,7 +139,6 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J2-8	|36	|PA4	|28	|PB5	|PA4_PB5	|EN_LEDS	|OUT|
-
 |J1-3	|5	|PB0	|5	|PA0	|PB0_PA0	|LED1	|OUT|
 |J1-4	|7	|PB1	|6	|PA1	|PB1_PA1	|LED2	|OUT|
 |J2-2	|24	|PB2	|7	|PA2	|PB2_PA2	|LED3	|OUT|
