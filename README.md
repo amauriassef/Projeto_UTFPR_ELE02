@@ -282,7 +282,7 @@ Observação NC significa não conectado.
 |23 (J4-2)	|PF3	|LED Verde da placa Tiva|
 |35 (J4-8)	|PD6	|I/O|
 |37 (J4-9)	|PD7	|I/O NMI|
-|30 (J2-5)	|REST	|RESET|
+|30 (J2-5)	|RESET	|RESET|
 
 
 #### 1.6.2.14 Sinais não conectados da placa BluePill
