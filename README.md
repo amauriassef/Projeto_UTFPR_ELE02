@@ -11,7 +11,7 @@
      + [1.5.1 Características](#151-Características)
      + [1.5.2 Versão do projeto](#152-Versão-do-projeto)
      + [1.5.3 Histórico de versão](#153-Histórico-de-versão)
-     + [1.5.4 Informações para fabricação da placa](#154-Informações-para-fabricação da placa)
+     + [1.5.4 Informações para fabricação da placa](#154-Informações-para-fabricação-da-placa)
    * [1.6 Pinagem do kit](#16-Pinagem-do-kit)
      + [1.6.1 Descrição dos sinais da placa MICRO_TB_UTFPR](#161-Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
      + [1.6.2 Descrição dos sinais por funcionalidade](#162-Descrição-dos-sinais-por-funcionalidade) 
