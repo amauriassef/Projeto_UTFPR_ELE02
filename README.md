@@ -253,6 +253,7 @@ Observação NC significa não conectado.
 |20	|\*GND	|GND|
 |32	|PA12	|USB+|
 |33	|PA11	|USB+|
+
 \*Sinal não conectado para compatibilidade com a placa BlackPill.
 
 #### 1.6.2.13 Conectores
@@ -261,7 +262,7 @@ Observação NC significa não conectado.
 |LCD1	|LCD 16x2|
 |M1	|Placa Tiva LaunchPad|
 |M2	|Placa BluePill|
-|P1	|Servo motor|
+|P1	|Servomotor|
 |P2	|Motor de passo unipolar ou até dois motores CC|
 |P3	|ESP8266|
 |P4	|Módulo Bluetooth HC-05/HC-06|
