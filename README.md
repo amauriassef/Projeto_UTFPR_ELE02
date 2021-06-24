@@ -153,10 +153,10 @@ Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 |J3-3	|6	|PD0/PB6	|-	|-	|-	|-	|NC|
 |J3-4	|8	|PD1/PB7	|-	|-	|-	|-	|NC|
 |J3-5	|10	|PD2	|36	|PA8	|PD2_PA8	|L293D_M3	|OUT|
-|J3-6	12	|PD3	|35	|PA9	|PD3_PA9	|L293D_M4	|OUT|
-|J3-7	14	|PE1	|30	|PB3	|PE1_PB3	|ESP_RST	| OUT|
-|J3-8	16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
-|J3-9	18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
+|J3-6	|12	|PD3	|35	|PA9	|PD3_PA9	|L293D_M4	|OUT|
+|J3-7	|14	|PE1	|30	|PB3	|PE1_PB3	|ESP_RST	| OUT|
+|J3-8	|16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
+|J3-9	|18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
 |J3-10	|20	|PF1	2	|PC13	|PF1_PC13	|US_TRIGGER	|OUT|
 |J4-1	|21	|PF2	|-	|-	|-	|-	|NC|
 |J4-2	|23	|PF3	|-	|-	|-	|-	|NC|
