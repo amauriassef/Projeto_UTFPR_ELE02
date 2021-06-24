@@ -61,6 +61,10 @@ This is an h3 heading
    * [Versão do projeto](#Versão-do-projeto)
    * [Histórico de versão](#Histórico-de-versão)
    * [Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad](#Links-com-informações-sobre-a-placa-TIVA-C-Series-TM4C123G-LaunchPad)
+   * [Links com informações sobre as placas BluePill e BlackPill](#Links-com-informações-sobre-as-placas-BluePill-e-BlackPill)
+   * [Informação de licença](#Informação-de-licença)
+
+Informação de licença 
 
 # Projeto ELE02 
 
