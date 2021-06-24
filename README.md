@@ -1,6 +1,5 @@
-![PCB Logo](/Figuras/PCB.PNG)
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/PCB.PNG"/>
 </p>
 
 - [1. Projeto ELE02](#1-Projeto-ELE02)
