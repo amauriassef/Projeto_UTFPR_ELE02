@@ -8,13 +8,15 @@
    * [1.3 Descrição](#13-Descrição)
    * [1.4 Equipe](#14-Equipe)
    * [1.5 Documentação](#15-Documentação)
-     + [1.5.1 Versão do projeto](#151-Versão-do-projeto)
-     + [1.5.2 Histórico de versão](#152Histórico-de-versão)
-- [2. Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad](#2-Links-com-informações-sobre-a-placa-TIVA-C-Series-TM4C123G-LaunchPad)
-- [3. Links com informações sobre as placas BluePill e BlackPill](#3-Links-com-informações-sobre-as-placas-BluePill-e-BlackPill)
-- [4. Informação de licença](#4-Informação-de-licença)
+     + [1.5.1 Características](#151-Característicaso)
+     + [1.5.2 Versão do projetoo](#152-Versão-do-projeto)
+     + [1.5.3 Histórico de versão](#153-Histórico de versão)
+- [2. Informação de licença](#2-Informação-de-licença)     
+- [3. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
+   * [3.1 Placa TIVA C Series TM4C123G LaunchPad](#31-placa-TIVA-C-Series-TM4C123G-LaunchPad)
+   * [3.2 Placa BluePill](#32-placa-BluePill)
+   * [3.3 Placa BlackPill](#32-placa-BlackPill)
 
-Informação de licença 
 
 # 1. Projeto ELE02 
 
@@ -57,25 +59,27 @@ Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) 
 
 Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9.6.2 (© 2020 Autodesk, Inc.), clicar em **Ratsnest** para mostrar os planos de GND dos layers *top* e *bottom*.
 
-### 1.5.1 Versão do projeto
+### 1.5.1 Características
+
+* Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e BluePill
+* 2 displays de 7 segmentos tipo catodo comum multiplexados
+* 8 LEDs
+* Sensor de temperatura LM35
+* Potenciômetro para leitura analógica
+* Driver ponte-H dupla L293D para controle de motor de passo e CC
+* Conector para módulo WiFi ESP8266
+* Conector para módulo Bluetooth HC-05/06
+* Conector para controle de micro servomotor de 3 fios com sinal PWM
+* Conector para módulo sensor ultrassônico HC-04
+* Conector para módulo sensor de sensor de pressão BMP280
+* Display alfanumérico LCD 16x2 no modo de 4 bits
+* Alimentação pela USB ou fonte externa de 9 V/1 A com conector do tipo P4 (2,5 x 5,5 mm)
+
+### 1.5.2 Versão do projeto
 
 MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
-* Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e BluePill
-* 2 Displays de 7 segmentos do tipo catodo comum
-* 8 LEDs
-* Sensor de temperatura LM35
-* Driver L293D para motor de passo e CC
-* Conector para placa ESP8266
-* Conector para placa Bluetooth HC-05/06
-* Conector para servomotor
-* Conector para sensor ultrassônico HC-04
-* Conector para sensor de sensor de pressão BMP280
-* Display LCD 16x2
-* Potenciômetro para leitura analógica
-* Alimentação pela USB ou fonte externa de 9 V
-
-### 1.5.2 Histórico de versão 
+### 1.5.3 Histórico de versão 
 
 V_1.0 - Versão inicial da placa MICROTB_UTFPR 
 
