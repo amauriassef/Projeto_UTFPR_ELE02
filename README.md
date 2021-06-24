@@ -97,7 +97,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * [Drivers para o TM4C123 - TivaWare for C Series Software (Complete)](https://www.ti.com/tool/download/SW-TM4C)
 * [e-Store Texas Instruments para o Launchpad](https://www.ti.com/store/ti/en/p/product/?p=EK-TM4C123GXL)
 
-## 2.2 Placa BluePill e BlackPill
+## 2.2 Placa BluePill
 
 ![Bluepill Logo](/Figuras/BluePill1.jpg)
 
