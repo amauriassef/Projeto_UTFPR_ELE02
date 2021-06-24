@@ -133,8 +133,9 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J4-9	|37	|PD7	|-	|-	|-	|-	|NC|
 |J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
 
+Observação NC significa não conectado. 
 
-### 1.6.2. Descrição dos sinais da placa MICRO_TB_UTFPR por funcionalidade:
+### 1.6.2. Descrição dos sinais da placa MICRO_TB_UTFPR por funcionalidade
 
 * LEDs
 
@@ -150,14 +151,12 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LED7	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LED8	|OUT|
 
-
 * Chaves 
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
 |J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN|
-
 
 * Displays de 7 segmentos
  
@@ -174,7 +173,6 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|SEG_G	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|SEG_DP	|OUT|
 
-
 * Display LCD 16x2
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
@@ -185,7 +183,6 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J1-2	|3	|PB5	|10	|PA5	|PB5_PA5	|LCD_D5	|OUT|
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LCD_D6	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LCD_D7	|OUT|
-
 
 * Motor de passo (CI L293D) e servomotor
 
@@ -229,17 +226,15 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 Observação: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP280 com a placa BluePill (PB10 – SCL e PB11 – SDA)
 
-
-
 * Sinais analógicos
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-|Conector TIVA	Pino do conector M1 (Tiva)	Sinal Tiva	Pino do conector M2 (BluePill)	Sinal BluePill	Nome do sinal final	Interface	Direção
 |J3-8	|16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
 |J3-9	|18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
 
 * Jumpers
+
 |Jumper|	Pinos |	Descrição|
 |:---: |:---:   |:---:     |
 |JP1	|1-2	|Alimentação pela USB (padrão)|
@@ -248,13 +243,14 @@ Observação: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP28
 |JP2	|2-3	|Alimentação pelo regulador de 3,3 V da placa MICRO_TB (padrão)|
 
 * Sinais não conectados da placa BluePill
+
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |Pino do conector M2	|Sinal BluePill	|Descrição|
 |:---:                |:---:          |:---:    |
 |3	|PC14	|OSC32IN|
 |4	|PC15	|OSC32OUT|
 |17	|NRST	|RESET BUTTON|
-|20	|*GND	|GND|
+|20	|\*GND	|GND|
 |32	|PA12	|USB+|
 |33	|PA11	|USB+|
 * Sinal não conectado para compatibilidade com a placa BlackPill.
