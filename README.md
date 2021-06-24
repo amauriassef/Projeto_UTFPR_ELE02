@@ -11,6 +11,7 @@
      + [1.5.1 Características](#151-Características)
      + [1.5.2 Versão do projeto](#152-Versão-do-projeto)
      + [1.5.3 Histórico de versão](#153-Histórico-de-versão)
+     + [1.5.4 Informações para fabricação da placa](#154-Informações-para-fabricação da placa)
    * [1.6 Pinagem do kit](#16-Pinagem-do-kit)
      + [1.6.1 Descrição dos sinais da placa MICRO_TB_UTFPR](#161-Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
      + [1.6.2 Descrição dos sinais por funcionalidade](#162-Descrição-dos-sinais-por-funcionalidade) 
@@ -99,6 +100,18 @@ MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 ### 1.5.3 Histórico de versão 
 
 V_1.0 - Versão inicial da placa MICROTB_UTFPR 
+
+### 1.5.4 Informações para fabricação da placa
+
+* Material: Dupla face FR4
+* Dimensão da placa: 100 x 80 (mm)
+* Espessura da PCI: 1,60 mm
+* Acabamento Superficial: HAL (Sn/Pb)
+* Espessura final do cobre externo (Base + Plating): 1.0oz
+* Cor da máscara de solda (top): Verde
+* Cor da máscara de componentes (top): Branca
+* Menor pista: 0,279 mm (11 mil)
+* Menor isolação: 0,305 mm (12 mil)
 
 ## 1.6 Pinagem do kit
 
