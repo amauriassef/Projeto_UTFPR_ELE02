@@ -208,68 +208,68 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-J1-5	9	PE4	16	PB11	PE4_PB11	BLUETOOTH_TX	IN
-J1-6	11	PE5	15	PB10	PE5_PB10	BLUETOOTH_RX	OUT
+|J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|BLUETOOTH_TX	|IN|
+|J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|BLUETOOTH_RX	|OUT|
 
 * Módulo WiFi ESP8266
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-J2-3	26	PE0	29	PB4	PE0_PB4	ESP_GPIO02	OUT
-J3-7	14	PE1	30	PB3	PE1_PB3	ESP_RST	OUT
-J1-5	9	PE4	16	PB11	PE4_PB11	ESP_TX	IN
-J1-6	11	PE5	15	PB10	PE5_PB10	ESP_RX	OUT
+|J2-3	|26	|PE0	|29	|PB4	|PE0_PB4	|ESP_GPIO02	|OUT|
+|J3-7	|14	|PE1	|30	|PB3	|PE1_PB3	|ESP_RST	|OUT|
+|J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|ESP_TX	|IN|
+|J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|ESP_RX	|OUT|
 
 * Módulo I2C sensor de pressão BMP280
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 Conector TIVA	Pino do conector M1 (Tiva)	Sinal Tiva	Pino do conector M2 (BluePill)	Sinal BluePill	Nome do sinal final	Interface	Direção
-J1-5	9	PE4	16	PB11	PE4_PB11	BMP280_SCL	IN
-J1-6	11	PE5	15	PB10	PE5_PB10	BMP280_SDA	OUT
+|J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|BMP280_SCL	|IN
+|J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|BMP280_SDA	|OUT
 Observação: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP280 com a placa BluePill (PB10 – SCL e PB11 – SDA)
 
 * Sinais analógicos
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-Conector TIVA	Pino do conector M1 (Tiva)	Sinal Tiva	Pino do conector M2 (BluePill)	Sinal BluePill	Nome do sinal final	Interface	Direção
-J3-8	16	PE2	14	PB1	PE2_PB1	LM35	IN (ADC)
-J3-9	18	PE3	13	PB0	PE3_PB0	Trimpot	IN (ADC)
+|Conector TIVA	Pino do conector M1 (Tiva)	Sinal Tiva	Pino do conector M2 (BluePill)	Sinal BluePill	Nome do sinal final	Interface	Direção
+|J3-8	|16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
+|J3-9	|18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
 
 * Jumpers
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-JP1	1-2	Alimentação pela USB (padrão)
-JP1	2-3	Alimentação 
-JP2	1-2	Utilizado para teste da placa MICRO_TB
-JP2	2-3	Alimentação pelo regulador de 3,3 V da placa MICRO_TB (padrão)
+|Jumper|	Pinos |	Descrição|
+|:---: |:---:   |:---:     |
+|JP1	|1-2	|Alimentação pela USB (padrão)|
+|JP1	|2-3	|Alimentação| 
+|JP2	|1-2	|Utilizado para teste da placa MICRO_TB|
+|JP2	|2-3	|Alimentação pelo regulador de 3,3 V da placa MICRO_TB (padrão)|
 
 * Sinais não conectados da placa BluePill
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-Pino do conector M2	Sinal BluePill	Descrição
-3	PC14	OSC32IN
-4	PC15	OSC32OUT
-17	NRST	RESET BUTTON
-20	*GND	GND
-32	PA12	USB+
-33	PA11	USB+
+|Pino do conector M2	|Sinal BluePill	|Descrição|
+|:---:                |:---:          |:---:    |
+|3	|PC14	|OSC32IN|
+|4	|PC15	|OSC32OUT|
+|17	|NRST	|RESET BUTTON|
+|20	|*GND	|GND|
+|32	|PA12	|USB+|
+|33	|PA11	|USB+|
 * Sinal não conectado para compatibilidade com a placa BlackPill.
 
 * Conectores
-|Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-LCD1	LCD 16x2
-M1	Placa Tiva LaunchPad
-M2	Placa BluePill
-P1	Servo motor
-P2	Motor de passo unipolar ou até dois motores CC
-P3	ESP8266
-P4	Módulo Bluetooth HC-05/HC-06
-P5	Módulo de pressão BPM280
-P6	Módulo sensor ultrassônico HC-04
-U1	Entrada da alimentação de 9 V
+|Posição	|Conexão|
+|:---:    |:---:  |
+|LCD1	|LCD 16x2|
+|M1	|Placa Tiva LaunchPad|
+|M2	|Placa BluePill|
+|P1	|Servo motor|
+|P2	|Motor de passo unipolar ou até dois motores CC|
+|P3	|ESP8266|
+|P4	|Módulo Bluetooth HC-05/HC-06|
+|P5	|Módulo de pressão BPM280|
+|P6	|Módulo sensor ultrassônico HC-04|
+|U1	|Entrada da alimentação de 9 V|
 
 # 2. Links com informações sobre as placas de avaliação compatíveis
 
