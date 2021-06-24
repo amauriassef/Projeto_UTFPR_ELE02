@@ -132,9 +132,9 @@ Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 | git diff     | git diff       | git diff      |
 
 |Conector_TIVA|	Pino_do_conector M1 (Tiva)|
-|:---:|:---:|:---:|
-|J1-1	1|	3,3 V|	18, 21|	3,3 V|	+3V3(TB)|	Alimentação|	Alimentação|
-|J1-2|	3|	PB5|	10|	PA5|	PB5_PA5|	LED6|
+|:---:        |:---:                      |
+|J1-1	1       |	3,3 V                     |
+|J1-2         |	3                         |
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface|	Direção|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
