@@ -64,7 +64,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 * Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e BluePill
 * 2 displays de 7 segmentos tipo catodo comum multiplexados
-* 8 LEDs
+* 8 LEDs para controle lógico visual
 * Sensor de temperatura LM35
 * Potenciômetro para leitura analógica
 * Driver ponte-H dupla L293D para controle de motor de passo e CC
