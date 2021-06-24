@@ -52,9 +52,9 @@ This is an h2 heading
 This is an h3 heading
 
 
-- [Projeto ELE02](#Projeto-ELE02)
-   * [Universidade Tecnológica Federal do Paraná](#Universidade-Tecnológica-Federal-do-Paraná)
-   * [Título](#Título)
+- [1. Projeto ELE02](#1-Projeto-ELE02)
+   * [1.1 Universidade Tecnológica Federal do Paraná](#11_Universidade-Tecnológica-Federal-do-Paraná)
+   * [1.2 Título](#12-Título)
    * [Descrição](#Descrição)
    * [Equipe](#Equipe)
    * [Documentação](#Documentação)
@@ -66,9 +66,9 @@ This is an h3 heading
 
 Informação de licença 
 
-# Projeto ELE02 
+# 1. Projeto ELE02 
 
-## Universidade Tecnológica Federal do Paraná 
+## 1.1 Universidade Tecnológica Federal do Paraná 
 
 ![UTFPR Logo](/Figuras/UTFPR1.png)
 
@@ -76,7 +76,7 @@ Informação de licença
 * Departamento Acadêmico de Eletrônica (DAELN) - Campus Curitiba
 * Departamento de Eletrônica (DAELE) - Campus Ponta Grossa
 
-## Título 
+## 1.2 Título 
 
 Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto - Projeto ELE02 
  
