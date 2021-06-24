@@ -1,7 +1,4 @@
-<p align="center">
 ![PCB Logo](/Figuras/PCB.PNG)
-</p>
-
 
 - [1. Projeto ELE02](#1-Projeto-ELE02)
    * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
