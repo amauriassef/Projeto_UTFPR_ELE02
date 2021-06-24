@@ -134,7 +134,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 ### 1.6.2. Descrição dos sinais da placa MICRO_TB_UTFPR por funcionalidade:
 
-* LEDS
+* LEDs
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -144,17 +144,19 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J2-2	|24	|PB2	|7	|PA2	|PB2_PA2	|LED3	|OUT|
 |J4-3	|25	|PB3	|8	|PA3	|PB3_PA3	|LED4	|OUT|
 |J1-7	|13	|PB4	|6	|PA4	|PB4_PA4	|LED5	|OUT|
-|J1-2	|3	|PB5	|10	|PA5	|PB5_PA5	|LED6	OUT|
+|J1-2	|3	|PB5	|10	|PA5	|PB5_PA5	|LED6	|OUT|
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LED7	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LED8	|OUT|
 
 * Chaves 
+* 
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-|J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN
-|J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN
+|J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
+|J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN|
 
 * Displays de 7 segmentos
+* 
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-8	|15	|PA5	|34	|PA10	|PA5_PA10	|EN_DISP1	|OUT|
@@ -169,17 +171,18 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|SEG_DP	|OUT|
 
 * LCD 16x2
+
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-
-|J2-9	38	PA3	40	PB12	PA3_PB12	LCD_E	OUT
-|J2-10	40	PA2	39	PB13	PA2_PB13	LCD_RS	OUT
-|J1-7	13	PB4	6	PA4	PB4_PA4	LCD_D4	OUT
-|J1-2	3	PB5	10	PA5	PB5_PA5	LCD_D5	OUT
-|J2-7	34	PB6/PD0	11	PA6	PB6_PA6	LCD_D6	OUT
-|J2-6	32	PB7/PD1	12	PA7	PB7_PA7	LCD_D7	OUT
+|J2-9	|38	|PA3	|40	|PB12	|PA3_PB12	|LCD_E	|OUT|
+|J2-10	|40	|PA2	|39	|PB13	|PA2_PB13	|LCD_RS	|OUT|
+|J1-7	|13	|PB4	|6	|PA4	|PB4_PA4	|LCD_D4	|OUT|
+|J1-2	|3	|PB5	|10	PA5	|PB5_PA5	|LCD_D5	|OUT|
+|J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LCD_D6	|OUT|
+|J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LCD_D7	|OUT|
 
 * Motor de passo (CI L293D) e servomotor
+
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 
