@@ -27,7 +27,7 @@
         + [1.6.2.11 Jumpers](#16211-Jumpers)
         + [1.6.2.12 Conectores](#16212-Conectores)
         + [1.6.2.13 Sinais não conectados da placa Tiva LaunchPad](#16213-Sinais-não-conectados-da-placa-Tiva-LaunchPad)
-        + [# 1.6.2.14 Sinais não conectados da placa BluePill](#16214-Sinais-não-conectados-da-placa-BluePill)
+        + [1.6.2.14 Sinais não conectados da placa BluePill](#16214-Sinais-não-conectados-da-placa-BluePill)
 - [2. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
    * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
    * [2.2 Placa BluePill](#22-placa-BluePill)
