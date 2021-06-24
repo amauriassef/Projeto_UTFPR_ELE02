@@ -3,7 +3,7 @@
 </p>
 
 - [1. Projeto ELE02](#1-Projeto-ELE02)
-   * [1.1 Universidade Tecnológica Federal do Paraná (UTFPR)](#11-Universidade-Tecnológica-Federal-do-Paraná_utfpr)
+   * [1.1 Universidade Tecnológica Federal do Paraná (UTFPR)](#11-Universidade-Tecnológica-Federal-do-Paraná-(UTFPR))
    * [1.2 Título](#12-Título)
    * [1.3 Descrição](#13-Descrição)
    * [1.4 Equipe](#14-Equipe)
