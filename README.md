@@ -1,3 +1,8 @@
+<p align="center">
+![PCB Logo](/Figuras/PCB.PNG)
+</p>
+
+
 - [1. Projeto ELE02](#1-Projeto-ELE02)
    * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
    * [1.2 Título](#12-Título)
@@ -25,9 +30,6 @@ Informação de licença
 ## 1.2 Título 
 
 Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino remoto - Projeto ELE02 
- 
- 
-![PCB Logo](/Figuras/PCB.PNG)
  
 ## 1.3 Descrição 
 
