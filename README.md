@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/PCB.PNG"/>
-  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa_final.png"/>
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa.png"/>
 </p>
 <p align="center">
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa_final.png"/>
