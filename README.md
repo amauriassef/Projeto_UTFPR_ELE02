@@ -151,14 +151,14 @@ Observação NC significa não conectado.
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LED7	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LED8	|OUT|
 
-* Chaves 
+#### 1.6.2.2 Chaves *push-buttom*
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
 |J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN|
 
-* Displays de 7 segmentos
+#### 1.6.2.3 Displays de 7 segmentos multiplexados
  
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -173,7 +173,7 @@ Observação NC significa não conectado.
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|SEG_G	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|SEG_DP	|OUT|
 
-* Display LCD 16x2
+#### 1.6.2.4 Display LCD 16x2
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -184,7 +184,7 @@ Observação NC significa não conectado.
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LCD_D6	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LCD_D7	|OUT|
 
-* Motor de passo (CI L293D) e servomotor
+#### 1.6.2.5 Motor de passo (CI L293D) e servomotor
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -194,21 +194,21 @@ Observação NC significa não conectado.
 |J3-5	|10	|PD2	|36	|PA8	|PD2_PA8	|L293D_M3	|OUT|
 |J3-6	|12	|PD3	|35	|PA9	|PD3_PA9	|L293D_M4	|OUT|
 
-* Módulo sensor de ultrassom HC-04
+#### 1.6.2.6 Módulo sensor de ultrassom HC-04
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J3-10	|20	|PF1	|2	|PC13	|PF1_PC13	|US_TRIGGER	|OUT|
 |J4-4	|27	|PC4	|27	|PB6	|PC4_PB6	|US_ECO	|IN|
 
-* Módulo Bluetooth HC-05/HC-06
+#### 1.6.2.7 Módulo Bluetooth HC-05/HC-06
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|BLUETOOTH_TX	|IN|
 |J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|BLUETOOTH_RX	|OUT|
 
-* Módulo WiFi ESP8266
+#### 1.6.2.8 Módulo WiFi ESP8266
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -217,23 +217,23 @@ Observação NC significa não conectado.
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|ESP_TX	|IN|
 |J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|ESP_RX	|OUT|
 
-* Módulo I2C sensor de pressão BMP280
+#### 1.6.2.9 Módulo I2C sensor de pressão BMP280
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|BMP280_SCL	|IN
 |J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|BMP280_SDA	|OUT
 
-Observação: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP280 com a placa BluePill (PB10 – SCL e PB11 – SDA)
+**Observação**: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP280 com a placa BluePill (PB10 – SCL e PB11 – SDA)
 
-* Sinais analógicos
+#### 1.6.2.10 Sinais analógicos
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J3-8	|16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
 |J3-9	|18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
 
-* Jumpers
+#### 1.6.2.11 Jumpers
 
 |Jumper|	Pinos |	Descrição|
 |:---: |:---:   |:---:     |
@@ -242,7 +242,7 @@ Observação: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP28
 |JP2	|1-2	|Utilizado para teste da placa MICRO_TB|
 |JP2	|2-3	|Alimentação pelo regulador de 3,3 V da placa MICRO_TB (padrão)|
 
-* Sinais não conectados da placa BluePill
+#### 1.6.2.12 Sinais não conectados da placa BluePill
 
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |Pino do conector M2	|Sinal BluePill	|Descrição|
@@ -253,9 +253,9 @@ Observação: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP28
 |20	|\*GND	|GND|
 |32	|PA12	|USB+|
 |33	|PA11	|USB+|
-* Sinal não conectado para compatibilidade com a placa BlackPill.
+\*Sinal não conectado para compatibilidade com a placa BlackPill.
 
-* Conectores
+#### 1.6.2.13 Conectores
 |Posição	|Conexão|
 |:---:    |:---:  |
 |LCD1	|LCD 16x2|
