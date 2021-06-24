@@ -3,7 +3,7 @@
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa.png"/>
 </p>
 
-- [1. Projeto ELE02](#1-Projeto-ELE02)
+- [1. Projeto UTFPR ELE02](#1-Projeto-UTFPR-ELE02)
    * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
    * [1.2 Título](#12-Título)
    * [1.3 Descrição](#13-Descrição)
@@ -36,7 +36,7 @@
    * [2.3 Placa BlackPill](#23-placa-BlackPill)
 - [3. Informação de licença](#4-Informação-de-licença)     
 
-# 1. Projeto ELE02 
+# 1. Projeto UTFPR ELE02 
 
 ## 1.1 Universidade Tecnológica Federal do Paraná
 
