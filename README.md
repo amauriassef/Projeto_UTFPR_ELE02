@@ -149,14 +149,14 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LED8	|OUT|
 
 * Chaves 
-* 
+
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
 |J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN|
 
 * Displays de 7 segmentos
-* 
+ 
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-8	|15	|PA5	|34	|PA10	|PA5_PA10	|EN_DISP1	|OUT|
