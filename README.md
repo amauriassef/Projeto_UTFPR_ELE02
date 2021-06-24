@@ -135,6 +135,8 @@ Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |J1-1	1|	3,3 V|	18, 21|	3,3 V|	+3V3(TB)|	Alimentação|	Alimentação|
 |J1-2|	3|	PB5|	10|	PA5|	PB5_PA5|	LED6|
+
+
 SEG_F
 LCD_D5	OUT
 J1-3	5	PB0	5	PA0	PB0_PA0	LED1
