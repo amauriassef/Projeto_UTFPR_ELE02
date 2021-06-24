@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa.PNG"/>
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa.png"/>
 </p>
 
 - [1. Projeto ELE02](#1-Projeto-ELE02)
