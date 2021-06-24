@@ -32,26 +32,6 @@ This is an h3 heading
 This is an h1 heading
 
 ### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-
 - [1. Projeto ELE02](#1-Projeto-ELE02)
    * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
    * [1.2 Título](#12-Título)
@@ -59,10 +39,10 @@ This is an h3 heading
    * [1.4 Equipe](#14-Equipe)
    * [1.5 Documentação](#15-Documentação)
      + [1.5.1 Versão do projeto](#151-Versão-do-projeto)
-   * [Histórico de versão](#Histórico-de-versão)
-   * [Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad](#Links-com-informações-sobre-a-placa-TIVA-C-Series-TM4C123G-LaunchPad)
-   * [Links com informações sobre as placas BluePill e BlackPill](#Links-com-informações-sobre-as-placas-BluePill-e-BlackPill)
-   * [Informação de licença](#Informação-de-licença)
+     + [1.5.2 Histórico de versão](#152Histórico-de-versão)
+- [2. Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad](#2-Links-com-informações-sobre-a-placa-TIVA-C-Series-TM4C123G-LaunchPad)
+- [3. Links com informações sobre as placas BluePill e BlackPill](#3-Links-com-informações-sobre-as-placas-BluePill-e-BlackPill)
+- [4. Informação de licença](#4-Informação-de-licença)
 
 Informação de licença 
 
@@ -110,7 +90,7 @@ Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) 
 
 Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9.6.2 (© 2020 Autodesk, Inc.), clicar em **Ratsnest** para mostrar os planos de GND dos layers *top* e *bottom*.
 
-## 1.5.1 Versão do projeto
+### 1.5.1 Versão do projeto
 
 MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
@@ -128,11 +108,11 @@ MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 * Potenciômetro para leitura analógica
 * Alimentação pela USB ou fonte externa de 9 V
 
-## Histórico de versão 
+### 1.5.2 Histórico de versão 
 
 V_1.0 - Versão inicial da placa MICROTB_UTFPR 
 
-## Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad
+# 2. Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad
 
 ![Tiva Logo](/Figuras/Tiva1.jpg)
 
@@ -145,7 +125,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * [Drivers para o TM4C123 - TivaWare for C Series Software (Complete)](https://www.ti.com/tool/download/SW-TM4C)
 * [e-Store Texas Instruments para o Launchpad](https://www.ti.com/store/ti/en/p/product/?p=EK-TM4C123GXL)
 
-## Links com informações sobre as placas BluePill e BlackPill
+# 3. Links com informações sobre as placas BluePill e BlackPill
 
 ![Bluepill Logo](/Figuras/BluePill1.jpg)
 
@@ -163,7 +143,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
 
-## Informação de licença 
+# 4. Informação de licença 
 
 Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
