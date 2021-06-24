@@ -53,9 +53,14 @@ This is an h3 heading
 
 
 - [Projeto ELE02](#Projeto-ELE02)
-   * [Universidade Tecnológica Federal do Paraná)](#Universidade-Tecnológica-Federal-do-Paraná)
-   * [Título)](#Título)
+   * [Universidade Tecnológica Federal do Paraná](#Universidade-Tecnológica-Federal-do-Paraná)
+   * [Título](#Título)
    * [Descrição](#Descrição)
+   * [Equipe](#Equipe)
+   * [Documentação](#Documentação)
+   * [Versão do projeto](#Versão-do-projeto)
+   * [Histórico de versão](#Histórico-de-versão)
+   * [Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad](#Links-com-informações-sobre-a-placa-TIVA-C-Series-TM4C123G-LaunchPad)
 
 # Projeto ELE02 
 
@@ -123,7 +128,7 @@ MICROTB_UTFPR V1.0 - Versão inicial com as seguintes características:
 
 V_1.0 - Versão inicial da placa MICROTB_UTFPR 
 
-## Links com informações sobre a placa TIVA™ C Series TM4C123G LaunchPad
+## Links com informações sobre a placa TIVA C Series TM4C123G LaunchPad
 
 ![Tiva Logo](/Figuras/Tiva1.jpg)
 
