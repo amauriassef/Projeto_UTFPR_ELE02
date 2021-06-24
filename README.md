@@ -21,9 +21,14 @@
         + [1.6.2.5 Motor de passo e servomotor](#1625-Motor-de-passo-e-servomotor)
         + [1.6.2.6 Módulo sensor de ultrassom HC-04](#1626-Módulo-sensor-de-ultrassom-HC-04)
         + [1.6.2.7 Módulo Bluetooth HC-05 ou HC-06](#1627-Módulo-Bluetooth-HC-05-ou-HC-06)
-        + [1.6.2.1 LEDs](#1621-LEDs)
-        + [1.6.2.1 LEDs](#1621-LEDs)
-        + [1.6.2.1 LEDs](#1621-LEDs)
+        + [1.6.2.8 Módulo WiFi ESP8266](#1628-Módulo-WiFi-ESP8266)
+        + [1.6.2.9 Módulo I2C sensor de pressão BMP280](#1629-Módulo-I2C-sensor-de-pressão-BMP280)
+        + [1.6.2.10 Sinais analógicos](#16210-Sinais-analógicos)
+        + [1.6.2.11 Jumpers](#16211-Jumpers)
+        + [1.6.2.12 Conectores](#16212-Conectores)
+
+
+
 - [2. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
    * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
    * [2.2 Placa BluePill](#22-placa-BluePill)
@@ -253,20 +258,8 @@ Observação NC significa não conectado.
 |JP2	|1-2	|Utilizado para teste da placa MICRO_TB|
 |JP2	|2-3	|Alimentação pelo regulador de 3,3 V da placa MICRO_TB (padrão)|
 
-#### 1.6.2.12 Sinais não conectados da placa BluePill
+#### 1.6.2.12 Conectores
 
-|Pino do conector M2	|Sinal BluePill	|Descrição|
-|:---:                |:---:          |:---:    |
-|3	|PC14	|OSC32IN|
-|4	|PC15	|OSC32OUT|
-|17	|NRST	|RESET BUTTON|
-|20	|\*GND	|GND|
-|32	|PA12	|USB+|
-|33	|PA11	|USB+|
-
-\*Sinal não conectado para compatibilidade com a placa BlackPill.
-
-#### 1.6.2.13 Conectores
 |Posição	|Conexão|
 |:---:    |:---:  |
 |LCD1	|LCD 16x2|
@@ -279,6 +272,33 @@ Observação NC significa não conectado.
 |P5	|Módulo de pressão BPM280|
 |P6	|Módulo sensor ultrassônico HC-04|
 |U1	|Entrada da alimentação de 9 V|
+
+#### 1.6.2.13 Sinais não conectados da placa Tiva LaunchPad
+
+|Pino do conector M1	|Sinal Tiva	|Descrição|
+|:---:                |:---:          |:---:    |
+|19 (J1-10)	|PA7	|I/O|
+|6 (J3-3)	|PD0	|Conectado por um resistor de 0R no PB6|
+|8 (J3-4)	|PD1	|Conectado por um resistor de 0R no PB7|
+|21 (J4-1)	|PF2	|LED Azul da placa Tiva|
+|23 (J4-2)	|PF3	|LED Verde da placa Tiva|
+|35 (J4-8)	|PD6	|I/O|
+|37 (J4-9)	|PD7	|I/O NMI|
+|30 (J2-5)	|REST	|RESET|
+
+
+#### 1.6.2.14 Sinais não conectados da placa BluePill
+
+|Pino do conector M2	|Sinal BluePill	|Descrição|
+|:---:                |:---:          |:---:    |
+|3	|PC14	|OSC32IN|
+|4	|PC15	|OSC32OUT|
+|17	|NRST	|RESET BUTTON|
+|20	|\*GND	|GND|
+|32	|PA12	|USB+|
+|33	|PA11	|USB+|
+
+\*Sinal não conectado para compatibilidade com a placa BlackPill.
 
 # 2. Links com informações sobre as placas de avaliação compatíveis
 
