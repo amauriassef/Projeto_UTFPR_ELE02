@@ -3,7 +3,7 @@
 </p>
 
 - [1. Projeto ELE02](#1-Projeto-ELE02)
-   * [1.1 Universidade Tecnológica Federal do Paraná](#11-Universidade-Tecnológica-Federal-do-Paraná)
+   * [1.1 Universidade Tecnológica Federal do Paraná (UTFPR)](#11-Universidade-Tecnológica-Federal-do-Paraná_utfpr)
    * [1.2 Título](#12-Título)
    * [1.3 Descrição](#13-Descrição)
    * [1.4 Equipe](#14-Equipe)
@@ -15,11 +15,12 @@
    * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
    * [2.2 Placa BluePill](#22-placa-BluePill)
    * [2.3 Placa BlackPill](#23-placa-BlackPill)
-- [3. Informação de licença](#2-Informação-de-licença)     
+- [3. Descrição dos sinais da placa MICRO_TB_UTFPR](#3-Descrição_dos_sinais_da_placa_MICRO_TB_UTFPR)     
+- [4. Informação de licença](#4-Informação-de-licença)     
 
 # 1. Projeto ELE02 
 
-## 1.1 Universidade Tecnológica Federal do Paraná 
+## 1.1 Universidade Tecnológica Federal do Paraná (UTFPR)
 
 ![UTFPR Logo](/Figuras/UTFPR1.png)
 
@@ -117,12 +118,6 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * [Blackpill - Datasheet do STM32F411RE](https://www.st.com/resource/en/datasheet/stm32f411re.pdf)
 * [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
-
-# 4. Informação de licença 
-
-Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
-
-![Licença Logo](/Figuras/by-nc-sa.png)
 
 # 3. Descrição dos sinais da placa MICRO_TB_UTFPR:
 
@@ -272,6 +267,12 @@ P4	Módulo Bluetooth HC-05/HC-06
 P5	Módulo de pressão BPM280
 P6	Módulo sensor ultrassônico HC-04
 U1	Entrada da alimentação de 9 V
+
+# 4. Informação de licença 
+
+Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+![Licença Logo](/Figuras/by-nc-sa.png)
 
 
 
