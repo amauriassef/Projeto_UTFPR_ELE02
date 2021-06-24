@@ -15,12 +15,12 @@
      + [1.6.1 Descrição dos sinais da placa MICRO_TB_UTFPR](#161-Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
      + [1.6.2 Descrição dos sinais por funcionalidade](#162-Descrição-dos-sinais-por-funcionalidade) 
         + [1.6.2.1 LEDs](#1621-LEDs) 
-        + [1.6.2.2 Chaves *push-buttom*](#1622-Chaves-*push-buttom*) 
+        + [1.6.2.2 Chaves *push-buttom*](#1622-Chaves-push-buttom) 
         + [1.6.2.3 Displays de 7 segmentos multiplexados](#1623-Displays-de-7-segmentos-multiplexados) 
-        + [1.6.2.1 LEDs](#1621-LEDs)
-        + [1.6.2.1 LEDs](#1621-LEDs)
-        + [1.6.2.1 LEDs](#1621-LEDs)
-        + [1.6.2.1 LEDs](#1621-LEDs)
+        + [1.6.2.4 Display LCD 16x2](#1624-Display-LCD-16x2)
+        + [1.6.2.5 Motor de passo e servomotor](#1625-Motor-de-passo-e-servomotor)
+        + [1.6.2.6 Módulo sensor de ultrassom HC-04](#1626-Módulo-sensor-de-ultrassom-HC-04)
+        + [1.6.2.7 Módulo Bluetooth HC-05/HC-06](#1627-Módulo-Bluetooth-HC-05/HC-06)
         + [1.6.2.1 LEDs](#1621-LEDs)
         + [1.6.2.1 LEDs](#1621-LEDs)
         + [1.6.2.1 LEDs](#1621-LEDs)
@@ -162,7 +162,7 @@ Observação NC significa não conectado.
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LED7	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LED8	|OUT|
 
-#### 1.6.2.2 Chaves *push-buttom*
+#### 1.6.2.2 Chaves push-button
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -195,7 +195,7 @@ Observação NC significa não conectado.
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LCD_D6	|OUT|
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LCD_D7	|OUT|
 
-#### 1.6.2.5 Motor de passo (CI L293D) e servomotor
+#### 1.6.2.5 Motor de passo e servomotor
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
