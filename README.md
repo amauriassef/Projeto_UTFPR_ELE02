@@ -15,12 +15,12 @@
      + [1.6.1 Descrição dos sinais da placa MICRO_TB_UTFPR](#161-Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
      + [1.6.2 Descrição dos sinais por funcionalidade](#162-Descrição-dos-sinais-por-funcionalidade) 
         + [1.6.2.1 LEDs](#1621-LEDs) 
-        + [1.6.2.2 Chaves *push-buttom*](#1622-Chaves-push-buttom) 
+        + [1.6.2.2 Chaves push-button](#1622-Chaves-push-button) 
         + [1.6.2.3 Displays de 7 segmentos multiplexados](#1623-Displays-de-7-segmentos-multiplexados) 
         + [1.6.2.4 Display LCD 16x2](#1624-Display-LCD-16x2)
         + [1.6.2.5 Motor de passo e servomotor](#1625-Motor-de-passo-e-servomotor)
         + [1.6.2.6 Módulo sensor de ultrassom HC-04](#1626-Módulo-sensor-de-ultrassom-HC-04)
-        + [1.6.2.7 Módulo Bluetooth HC-05/HC-06](#1627-Módulo-Bluetooth-HC-05/HC-06)
+        + [1.6.2.7 Módulo Bluetooth HC-05 ou HC-06](#1627-Módulo-Bluetooth-HC-05-ou-HC-06)
         + [1.6.2.1 LEDs](#1621-LEDs)
         + [1.6.2.1 LEDs](#1621-LEDs)
         + [1.6.2.1 LEDs](#1621-LEDs)
@@ -212,7 +212,7 @@ Observação NC significa não conectado.
 |J3-10	|20	|PF1	|2	|PC13	|PF1_PC13	|US_TRIGGER	|OUT|
 |J4-4	|27	|PC4	|27	|PB6	|PC4_PB6	|US_ECO	|IN|
 
-#### 1.6.2.7 Módulo Bluetooth HC-05/HC-06
+#### 1.6.2.7 Módulo Bluetooth HC-05 ou HC-06
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
