@@ -190,7 +190,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-|J4-5	|29	|PC5	|26	PB7	|PC5_PB7	|SERVO e L293D_EN	|OUT (PWM)|
+|J4-5	|29	|PC5	|26	|PB7	|PC5_PB7	|SERVO e L293D_EN	|OUT (PWM)|
 |J4-6	|31	|PC6	|38	|PB14	|PC6_PB14	|L293D_M1	|OUT|
 |J4-7	|33	|PC7	|37	|PB15	|PC7_PB15	|L293D_M2	|OUT|
 |J3-5	|10	|PD2	|36	|PA8	|PD2_PA8	|L293D_M3	|OUT|
