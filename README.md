@@ -54,7 +54,7 @@ This is an h3 heading
 
 - [Projeto ELE02](#Projeto-ELE02)
    * [Universidade Tecnológica Federal do Paraná (UTFPR)](#Universidade-Tecnológica-Federal-do-Paraná-(UTFPR))
-   * [Título)](#Titulo)
+   * [Título)](#Título)
    * [Descrição](#Descrição)
 
 # Projeto ELE02 
