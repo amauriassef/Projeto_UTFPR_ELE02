@@ -136,7 +136,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 
 * LEDS
 |Conector |TIVA	|Pino do conector M1 (Tiva)	|Sinal Tiva	|Pino do conector M2 (BluePill)	|Sinal BluePill	|Nome do sinal final	|Interface	|Direção|
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|:---:    |:---:                            |:---:      |:---:                          |:---:          |:---:                |:---:      |:---:  |
 |J2-8	|36	|PA4	|28	|PB5	|PA4_PB5	|EN_LEDS	|OUT|
 |J1-3	|5	|PB0	|5	|PA0	|PB0_PA0	|LED1	|OUT|
 |J1-4	|7	|PB1	|6	|PA1	|PB1_PA1	|LED2	|OUT|
