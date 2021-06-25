@@ -111,7 +111,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * Espessura final do cobre externo (Base + Plating): 1.0oz
 * Cor da máscara de solda (top): Verde
 * Cor da máscara de componentes (top): Branca
-* Menor pista: 0,279 mm (11 mil)
+* Menor pista: 0,28 mm (11 mil)
 * Menor isolação: 0,305 mm (12 mil)
 
 <p align="center">
