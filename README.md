@@ -114,6 +114,10 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 * Menor pista: 0,279 mm (11 mil)
 * Menor isolação: 0,305 mm (12 mil)
 
+<p align="center">
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/Propriedades_microtb_utfpr_v1_pcb.png"/>
+</p>
+
 ## 1.6 Pinagem do kit
 
 ### 1.6.1. Descrição dos sinais da placa MICRO_TB_UTFPR
