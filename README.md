@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/PCB.PNG"/>
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/microtb_utfpr_v1_pcb.PNG"/>
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/placa.png"/>
 </p>
 
