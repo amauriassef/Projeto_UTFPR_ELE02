@@ -105,7 +105,7 @@ V_1.0 - Versão inicial da placa MICROTB_UTFPR
 ### 1.5.4 Informações para fabricação da placa
 
 * Material: Dupla face FR4
-* Dimensão da placa: 100 x 80 (mm)
+* Dimensão da placa: 100 x 80 (mm2)
 * Espessura da PCI: 1,60 mm
 * Acabamento Superficial: HAL (Sn/Pb)
 * Espessura final do cobre externo (Base + Plating): 1.0oz
