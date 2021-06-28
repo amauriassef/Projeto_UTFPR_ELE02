@@ -334,10 +334,10 @@ Observação NC significa não conectado.
 
 ### 2.1.1 Links do professor Jonathan W. Valvano
 
-* Página pessoal do professor Jonathan W. Valvano[http://users.ece.utexas.edu/~valvano/]
-* Página do curso Embedded Systems - Shape the World: Microcontroller I/O[https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i]
-* Página do curso Embedded Systems - Shape the World: Multi Threaded I/O[https://www.edx.org/course/embedded-systems-shape-the-world-multi-threaded-in]
-* Página do curso Embedded System no EDx (kit e softwares)[http://edx-org-utaustinx.s3.amazonaws.com/UT601x/index.html]
+* [Página pessoal do professor Jonathan W. Valvano - Univerdidade do Texas em Austin](http://users.ece.utexas.edu/~valvano/)
+* [Página do curso Embedded Systems - Shape the World: Microcontroller I/O](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i)
+* [Página do curso Embedded Systems - Shape the World: Multi Threaded I/O](https://www.edx.org/course/embedded-systems-shape-the-world-multi-threaded-in)
+* [Página do curso Embedded System no EDx (kit e softwares)](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/index.html)
 
 
 ## 2.2 Placa BluePill
