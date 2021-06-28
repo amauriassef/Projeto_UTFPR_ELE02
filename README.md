@@ -32,7 +32,7 @@
         + [1.6.2.14 Sinais não conectados da placa BluePill](#16214-Sinais-não-conectados-da-placa-BluePill)
 - [2. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
    * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
-     + [2.1.1 Links do professor Jonathan W. Valvano](#211-Links-do-professor-Jonathan-W.-Valvano)
+     + [2.1.1 Links do professor Jonathan W Valvano](#211-Links-do-professor-Jonathan-W-Valvano)
    * [2.2 Placa BluePill](#22-placa-BluePill)
    * [2.3 Placa BlackPill](#23-placa-BlackPill)
 - [3. Informação de licença](#4-Informação-de-licença)     
@@ -332,7 +332,7 @@ Observação NC significa não conectado.
 * [Drivers para o TM4C123 - TivaWare for C Series Software (Complete)](https://www.ti.com/tool/download/SW-TM4C)
 * [e-Store Texas Instruments para o Launchpad](https://www.ti.com/store/ti/en/p/product/?p=EK-TM4C123GXL)
 
-### 2.1.1 Links do professor Jonathan W. Valvano
+### 2.1.1 Links do professor Jonathan W Valvano
 
 * [Página pessoal do professor Jonathan W. Valvano - Univerdidade do Texas em Austin](http://users.ece.utexas.edu/~valvano/)
 * [Página do curso Embedded Systems - Shape the World: Microcontroller I/O](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i)
