@@ -336,6 +336,7 @@ Observação NC significa não conectado.
 ![Bluepill Logo](/Figuras/BluePill1.jpg)
 
 * [Página WEB da STMicroelectronics](https://www.st.com/content/st_com/en.html)
+* [Canal da STMicroelectronics no Youtube](https://www.youtube.com/c/stmicroelectronics/videos)
 * [STM32world.com wiki](https://stm32world.com/wiki/Main_Page)
 * [ST Flasher](https://github.com/stlink-org/stlink/releases)
 * [Bluepill - Informações Gerais](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
