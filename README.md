@@ -372,5 +372,5 @@ Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 
 # 4. Site do projeto
 
-O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do curso de Engenharia de Controle e Automação da UTFPR.
-* [Link](https://ele002.wordpress.com/)   
+O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do curso de Engenharia de Controle e Automação da UTFPR Campus Cornélio Procópio.
+* Link: https://ele002.wordpress.com/   
