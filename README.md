@@ -35,7 +35,9 @@
      + [2.1.1 Links do professor Jonathan W Valvano](#211-Links-do-professor-Jonathan-W-Valvano)
    * [2.2 Placa BluePill](#22-placa-BluePill)
    * [2.3 Placa BlackPill](#23-placa-BlackPill)
-- [3. Informação de licença](#4-Informação-de-licença)     
+- [3. Informação de licença](#4-Informação-de-licença)  
+- [4. Site do projeto](#5-Site-do-projeto)  
+
 
 # 1. Projeto UTFPR ELE02 
 
@@ -368,5 +370,7 @@ Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 
 ![Licença Logo](/Figuras/by-nc-sa.png)
 
+# 4. Site do projeto
 
-
+O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do curso de Engenharia de Controle e Automação da UTFPR.
+* [Link](https://ele002.wordpress.com/)   
