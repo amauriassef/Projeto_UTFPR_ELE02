@@ -37,7 +37,7 @@
    * [2.3 Placa BlackPill](#23-placa-BlackPill)
 - [3. Informação de licença](#3-Informação-de-licença)  
 - [4. Site do projeto](#4-Site-do-projeto)  
-
+- [5. Como citar este trabalho](#5-Como-citar-este-trabalho)  
 
 # 1. Projeto UTFPR ELE02 
 
@@ -374,3 +374,7 @@ Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma c�
 
 O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do curso de Engenharia de Controle e Automação da UTFPR Campus Cornélio Procópio.
 * Link: https://ele002.wordpress.com/   
+
+# 5. Como citar este trabalho
+
+ASSEF, Amauri Amorin; MORITZ, Guilherme Luiz; BANDEIRA JUNIOR, Delvanei Gomes; PERON, Guilherme de Santi; KASTER, Maurício dos Santos; OLIVEIRA, Murilo Paulo de; PEREIRA, Cáled Tarique. Projeto aberto da placa MICROTB_UTFPR (V1.0) para conexão com as plataformas de avaliação de microcontroladores baseados em ARM Tiva LaunchPad e BluePill. Curitiba: UTFPR, 2021. 
