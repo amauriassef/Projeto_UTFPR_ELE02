@@ -83,7 +83,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 ### 1.5.1 Características
 
-* Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e BluePill
+* Permite conexão com as placas TIVA™ C Series TM4C123G LaunchPad e Blue Pill
 * 2 displays de 7 segmentos tipo catodo comum multiplexados
 * 8 LEDs para controle lógico visual
 * Sensor de temperatura LM35
