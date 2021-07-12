@@ -103,7 +103,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 ### 1.5.3 Histórico de versão 
 
-V_1.0 - Versão inicial da placa MICROTB_UTFPR 
+V1.0 - Versão inicial da placa MICROTB_UTFPR 
 
 ### 1.5.4 Informações para fabricação da placa
 
