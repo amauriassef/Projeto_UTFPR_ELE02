@@ -156,7 +156,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 |J3-7	|14	|PE1	|30	|PB3	|PE1_PB3	|ESP_RST	| OUT|
 |J3-8	|16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
 |J3-9	|18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
-|J3-10	|20	|PF1	2	|PC13	|PF1_PC13	|US_TRIGGER	|OUT|
+|J3-10	|20	|PF1	|2	|PC13	|PF1_PC13	|US_TRIGGER	|OUT|
 |J4-1	|21	|PF2	|-	|-	|-	|-	|NC|
 |J4-2	|23	|PF3	|-	|-	|-	|-	|NC|
 |J4-3	|25	|PB3	|8	|PA3	|PB3_PA3	|LED4 e SEG_D	|OUT|
