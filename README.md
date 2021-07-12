@@ -99,7 +99,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 ### 1.5.2 Versão do projeto
 
-**MICROTB_UTFPR V1.0** - Versão inicial com as seguintes características:
+**MICROTB_UTFPR V1.0** - Versão inicial do projeto.
 
 ### 1.5.3 Histórico de versão 
 
