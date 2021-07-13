@@ -29,12 +29,12 @@
         + [1.6.2.11 Jumpers](#16211-Jumpers)
         + [1.6.2.12 Conectores](#16212-Conectores)
         + [1.6.2.13 Sinais não conectados da placa Tiva LaunchPad](#16213-Sinais-não-conectados-da-placa-Tiva-LaunchPad)
-        + [1.6.2.14 Sinais não conectados da placa BluePill](#16214-Sinais-não-conectados-da-placa-BluePill)
+        + [1.6.2.14 Sinais não conectados da placa Blue Pill](#16214-Sinais-não-conectados-da-placa-Blue-Pill)
 - [2. Links com informações sobre as placas de avaliação compatíveis](#2-Links-com-informações-sobre-as-placas-de-avaliação-compatíveis)
    * [2.1 Placa TIVA C Series TM4C123G LaunchPad](#21-placa-TIVA-C-Series-TM4C123G-LaunchPad)
      + [2.1.1 Links do professor Jonathan W Valvano](#211-Links-do-professor-Jonathan-W-Valvano)
-   * [2.2 Placa BluePill](#22-placa-BluePill)
-   * [2.3 Placa BlackPill](#23-placa-BlackPill)
+   * [2.2 Placa Blue Pill](#22-placa-Blue-Pill)
+   * [2.3 Placa Black Pill](#23-placa-Black-Pill)
 - [3. Informação de licença](#3-Informação-de-licença)  
 - [4. Site do projeto](#4-Site-do-projeto)  
 - [5. Como citar este trabalho](#5-Como-citar-este-trabalho)  
@@ -56,7 +56,7 @@ Desenvolvimento de um kit microcontrolado de baixo custo para apoio ao ensino re
  
 ## 1.3 Descrição 
 
-Projeto do circuito esquemático e *layout* da placa de circuito impresso (PCB) **MICROTB_UTFPR** utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa **MICROTB_UTFPR** permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad ou BluePill para aplicações de Sistemas Microcontrolados envolvendo automação, controle e IoT, entre outras.
+Projeto do circuito esquemático e *layout* da placa de circuito impresso (PCB) **MICROTB_UTFPR** utilizando o software [Eagle 9.6.2](https://www.autodesk.com/products/eagle/). A placa **MICROTB_UTFPR** permite conexão com a placa TIVA™ C Series TM4C123G LaunchPad ou Blue-Pill para aplicações de Sistemas Microcontrolados envolvendo automação, controle e IoT, entre outras.
 
 Projeto aprovado no [Edital 37/2020 PROGRAD – UTFPR – Área temática de Sistemas Microcontrolados](http://portal.utfpr.edu.br/editais/graduacao-e-educacao-profissional/reitoria/edital-37-2020-prograd) como apoio no desenvolvimento dos Recursos Educacionais Abertos (REA).
 
@@ -125,7 +125,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 ### 1.6.1. Descrição dos sinais da placa MICRO_TB_UTFPR
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-1	        |1                          |	3,3 V     |	18, 21                        |	3,3 V         |	+3V3(TB)           |	Alimentação|	Alimentação|
 |J1-2         |3                          |	PB5       |	10                            |	PA5           |	PB5_PA5            |	LED6, SEG_F e LCD_D5       | OUT    |     
@@ -174,7 +174,7 @@ Observação NC significa não conectado.
 
 #### 1.6.2.1 LEDs
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J2-8	|36	|PA4	|28	|PB5	|PA4_PB5	|EN_LEDS	|OUT|
 |J1-3	|5	|PB0	|5	|PA0	|PB0_PA0	|LED1	|OUT|
@@ -188,14 +188,14 @@ Observação NC significa não conectado.
 
 #### 1.6.2.2 Chaves push-button
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
 |J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN|
 
 #### 1.6.2.3 Displays de 7 segmentos multiplexados
  
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-8	|15	|PA5	|34	|PA10	|PA5_PA10	|EN_DISP1	|OUT|
 |J1-9	|17	|PA6	|31	|PA15	|PA6_PA15	|EN_DISP2	|OUT|
@@ -210,7 +210,7 @@ Observação NC significa não conectado.
 
 #### 1.6.2.4 Display LCD 16x2
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J2-9	|38	|PA3	|40	|PB12	|PA3_PB12	|LCD_E	|OUT|
 |J2-10	|40	|PA2	|39	|PB13	|PA2_PB13	|LCD_RS	|OUT|
@@ -221,7 +221,7 @@ Observação NC significa não conectado.
 
 #### 1.6.2.5 Motor de passo e servomotor
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J4-5	|29	|PC5	|26	|PB7	|PC5_PB7	|SERVO e L293D_EN	|OUT (PWM)|
 |J4-6	|31	|PC6	|38	|PB14	|PC6_PB14	|L293D_M1	|OUT|
@@ -231,21 +231,21 @@ Observação NC significa não conectado.
 
 #### 1.6.2.6 Módulo sensor de ultrassom HC-04
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J3-10	|20	|PF1	|2	|PC13	|PF1_PC13	|US_TRIGGER	|OUT|
 |J4-4	|27	|PC4	|27	|PB6	|PC4_PB6	|US_ECO	|IN|
 
 #### 1.6.2.7 Módulo Bluetooth HC-05 ou HC-06
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|BLUETOOTH_TX	|IN|
 |J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|BLUETOOTH_RX	|OUT|
 
 #### 1.6.2.8 Módulo WiFi ESP8266
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J2-3	|26	|PE0	|29	|PB4	|PE0_PB4	|ESP_GPIO02	|OUT|
 |J3-7	|14	|PE1	|30	|PB3	|PE1_PB3	|ESP_RST	|OUT|
@@ -254,16 +254,16 @@ Observação NC significa não conectado.
 
 #### 1.6.2.9 Módulo I2C sensor de pressão BMP280
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|BMP280_SCL	|IN
 |J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|BMP280_SDA	|OUT
 
-**Observação**: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP280 com a placa BluePill (PB10 – SCL e PB11 – SDA)
+**Observação**: Inverter os sinais PE4_PB11 e PE5_PB10 para funcionamento do BMP280 com a placa Blue-Pill (PB10 – SCL e PB11 – SDA)
 
 #### 1.6.2.10 Sinais analógicos
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (BluePill)|	Sinal BluePill|	Nome do sinal final|	Interface  |	Direção    |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
 |J3-8	|16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
 |J3-9	|18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
@@ -283,7 +283,7 @@ Observação NC significa não conectado.
 |:---:    |:---:  |
 |LCD1	|LCD 16x2|
 |M1	|Placa Tiva LaunchPad|
-|M2	|Placa BluePill|
+|M2	|Placa Blue Pill|
 |P1	|Servomotor|
 |P2	|Motor de passo unipolar ou até dois motores CC|
 |P3	|ESP8266|
@@ -306,9 +306,9 @@ Observação NC significa não conectado.
 |30 (J2-5)	|RESET	|RESET|
 
 
-#### 1.6.2.14 Sinais não conectados da placa BluePill
+#### 1.6.2.14 Sinais não conectados da placa Blue Pill
 
-|Pino do conector M2	|Sinal BluePill	|Descrição|
+|Pino do conector M2	|Sinal Blue Pill	|Descrição|
 |:---:                |:---:          |:---:    |
 |3	|PC14	|OSC32IN|
 |4	|PC15	|OSC32OUT|
@@ -342,7 +342,7 @@ Observação NC significa não conectado.
 * [Página do curso Embedded System no EDx (kit e softwares)](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/index.html)
 
 
-## 2.2 Placa BluePill
+## 2.2 Placa Blue Pill
 
 ![Bluepill Logo](/Figuras/BluePill1.jpg)
 
@@ -350,11 +350,11 @@ Observação NC significa não conectado.
 * [Canal da STMicroelectronics no Youtube](https://www.youtube.com/c/stmicroelectronics/videos)
 * [STM32world.com wiki](https://stm32world.com/wiki/Main_Page)
 * [ST Flasher](https://github.com/stlink-org/stlink/releases)
-* [Bluepill - Informações Gerais](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
-* [Bluepill - Circuito esquemático (easyEDA)](https://easyeda.com/r3bers/STM32F103C8T6-Test-Board)
-* [Bluepill - Datasheet do STM32F103C8](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
-* [Bluepill - Reference Manual do STM32F103C8](https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
-* [Bluepill - Documentação da API do STM32F1](https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
+* [Blue Pill - Informações Gerais](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill)
+* [Blue Pill - Circuito esquemático (easyEDA)](https://easyeda.com/r3bers/STM32F103C8T6-Test-Board)
+* [Blue Pill - Datasheet do STM32F103C8](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
+* [Blue Pill - Reference Manual do STM32F103C8](https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
+* [Blue Pill - Documentação da API do STM32F1](https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
 
 ## 2.3 Placa BlackPill
 
@@ -377,4 +377,4 @@ O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do cu
 
 # 5. Como citar este trabalho
 
-ASSEF, Amauri Amorin; MORITZ, Guilherme Luiz; BANDEIRA JUNIOR, Delvanei Gomes; PERON, Guilherme de Santi; KASTER, Maurício dos Santos; OLIVEIRA, Murilo Paulo de; PEREIRA, Cáled Tarique. Projeto aberto da placa MICROTB_UTFPR (V1.0) para conexão com as plataformas de avaliação de microcontroladores baseados em ARM Tiva LaunchPad e BluePill. Curitiba: UTFPR, 2021. 
+ASSEF, Amauri Amorin; MORITZ, Guilherme Luiz; BANDEIRA JUNIOR, Delvanei Gomes; PERON, Guilherme de Santi; KASTER, Maurício dos Santos; OLIVEIRA, Murilo Paulo de; PEREIRA, Cáled Tarique. Projeto aberto da placa MICROTB_UTFPR (V1.0) para conexão com as plataformas de avaliação de microcontroladores baseados em ARM Tiva LaunchPad e Blue Pill. Curitiba: UTFPR, 2021. 
