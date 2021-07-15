@@ -14,7 +14,7 @@
      + [1.5.3 Histórico de versão](#153-Histórico-de-versão)
      + [1.5.4 Informações para fabricação da placa](#154-Informações-para-fabricação-da-placa)
    * [1.6 Pinagem do kit](#16-Pinagem-do-kit)
-     + [1.6.1 Descrição dos sinais da placa MICRO_TB_UTFPR](#161-Descrição-dos-sinais-da-placa-MICRO_TB_UTFPR)
+     + [1.6.1 Descrição dos sinais da placa MICROTB_UTFPR](#161-Descrição-dos-sinais-da-placa-MICROTB_UTFPR)
      + [1.6.2 Descrição dos sinais por funcionalidade](#162-Descrição-dos-sinais-por-funcionalidade) 
         + [1.6.2.1 LEDs](#1621-LEDs) 
         + [1.6.2.2 Chaves push-button](#1622-Chaves-push-button) 
@@ -74,9 +74,9 @@ Para fins do Edital 37/2020, entende-se que Recursos Educacionais Abertos (REA) 
  
 ## 1.5 Documentação
 
-* [**BOM_MICROTB**](/BOM_MICROTB) - Lista de material (*bill of material*) da placa MICRO_TB_UTFPR.
-* [**CAD_EAGLE_9_6_2_MICROTB**](/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e *layout* da placa MICRO_TB_UTFPR.
-* [**LIB_MICROTB**](/LIB_MICROTB) - Biblioteca com os componentes do circuito esquemático e placa MICRO_TB_UTFPR.
+* [**BOM_MICROTB**](/BOM_MICROTB) - Lista de material (*bill of material*) da placa MICROTB_UTFPR.
+* [**CAD_EAGLE_9_6_2_MICROTB**](/CAD_EAGLE_9_6_2_MICROTB) - Projeto do circuito esquemático e *layout* da placa MICROTB_UTFPR.
+* [**LIB_MICROTB**](/LIB_MICROTB) - Biblioteca com os componentes do circuito esquemático e placa MICROTB_UTFPR.
 * [**PDF_MICROTB**](/PDF_MICROTB) - Arquivos em formato PDF para visualização do circuito esquemático e projeto da placa.
 
 Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9.6.2 (© 2020 Autodesk, Inc.), clicar em **Ratsnest** para mostrar os planos de GND dos layers *top* e *bottom*.
@@ -123,7 +123,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 ## 1.6 Pinagem do kit
 
-### 1.6.1. Descrição dos sinais da placa MICRO_TB_UTFPR
+### 1.6.1. Descrição dos sinais da placa MICROTB_UTFPR
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
@@ -273,9 +273,9 @@ Observação NC significa não conectado.
 |Jumper|	Pinos |	Descrição|
 |:---: |:---:   |:---:     |
 |JP1	|1-2	|Alimentação pela USB (padrão)|
-|JP1	|2-3	|Alimentação| 
-|JP2	|1-2	|Utilizado para teste da placa MICRO_TB|
-|JP2	|2-3	|Alimentação pelo regulador de 3,3 V da placa MICRO_TB (padrão)|
+|JP1	|2-3	|Alimentação por fonte externa| 
+|JP2	|1-2	|Utilizado para teste da placa MICROTB_UTFPR |
+|JP2	|2-3	|Alimentação pelo regulador de 3,3 V da placa (padrão)|
 
 #### 1.6.2.12 Conectores
 
