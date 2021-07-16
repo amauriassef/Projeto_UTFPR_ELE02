@@ -364,6 +364,10 @@ Observação NC significa não conectado.
 * [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
 
+# 4. Site para download do software Eagle
+
+https://www.autodesk.com/products/eagle/free-download
+
 # 3. Site do projeto
 
 O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do curso de Engenharia de Controle e Automação da UTFPR Campus Cornélio Procópio.
