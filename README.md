@@ -35,8 +35,8 @@
      + [2.1.1 Links do professor Jonathan W Valvano](#211-Links-do-professor-Jonathan-W-Valvano)
    * [2.2 Placa Blue Pill](#22-placa-Blue-Pill)
    * [2.3 Placa Black Pill](#23-placa-Black-Pill)
-- [3. Site do projeto](#3-Site-do-projeto)  
-- [4. Site para download do software Eagle](#4-Site-para-download-do-software-Eagle)
+- [3. Site para download do software Eagle](#3-Site-para-download-do-software-Eagle)
+- [4. Site do projeto](#4-Site-do-projeto)  
 - [5. Como citar este trabalho](#5-Como-citar-este-trabalho)  
 - [6. Informação de licença](#6-Informação-de-licença)  
 
