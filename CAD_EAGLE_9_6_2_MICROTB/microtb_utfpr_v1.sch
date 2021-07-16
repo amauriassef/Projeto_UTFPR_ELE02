@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -21293,7 +21293,7 @@ Attribution-Noncommercial-Share Alike 2.5 Switzerland License.  To view a copy o
 HC-05/06</text>
 <text x="727.964" y="72.644" size="2.54" layer="92">SENSOR
 ULTRASSONICO</text>
-<text x="691.388" y="72.898" size="2.54" layer="92">SENSOR DE
+<text x="688.848" y="72.898" size="2.54" layer="92">SENSOR DE
 TEMPERATURA</text>
 <text x="416.56" y="119.38" size="2.54" layer="92" rot="R180">CONECTORES 
 SERVO-MOTOR</text>
@@ -21321,6 +21321,8 @@ I2C - BMP280</text>
 <text x="642.62" y="38.1" size="2.286" layer="91">HC-05 - pinos 1 a 6</text>
 <text x="487.68" y="15.24" size="2.286" layer="91">LCD Verde - pinos 1 a 16</text>
 <text x="487.68" y="12.7" size="2.286" layer="91">LCD Azul - pinos 3 a 18</text>
+<text x="664.718" y="88.9" size="1.778" layer="91">Inverter PE4_PB11 e PE5_PB10 para operação </text>
+<text x="664.718" y="86.36" size="1.778" layer="91">com a placa Blue-Pill (PB10 – SCL e PB11 – SDA)</text>
 </plain>
 <instances>
 <instance part="IC3" gate="A1" x="452.12" y="245.618" smashed="yes">
@@ -21418,8 +21420,8 @@ I2C - BMP280</text>
 <instance part="SUPPLY14" gate="GND" x="407.162" y="94.488" smashed="yes">
 <attribute name="VALUE" x="409.067" y="92.583" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SUPPLY20" gate="GND" x="701.04" y="45.72" smashed="yes">
-<attribute name="VALUE" x="699.135" y="42.545" size="1.778" layer="96"/>
+<instance part="SUPPLY20" gate="GND" x="698.5" y="45.72" smashed="yes">
+<attribute name="VALUE" x="696.595" y="42.545" size="1.778" layer="96"/>
 </instance>
 <instance part="SUPPLY21" gate="GND" x="737.108" y="48.006" smashed="yes">
 <attribute name="VALUE" x="735.203" y="44.831" size="1.778" layer="96"/>
@@ -21435,8 +21437,8 @@ I2C - BMP280</text>
 <instance part="SUPPLY27" gate="GND" x="483.616" y="90.424" smashed="yes">
 <attribute name="VALUE" x="481.711" y="87.249" size="1.778" layer="96"/>
 </instance>
-<instance part="SUPPLY28" gate="GND" x="739.14" y="104.14" smashed="yes">
-<attribute name="VALUE" x="737.235" y="100.965" size="1.778" layer="96"/>
+<instance part="SUPPLY28" gate="GND" x="736.6" y="104.14" smashed="yes">
+<attribute name="VALUE" x="734.695" y="100.965" size="1.778" layer="96"/>
 </instance>
 <instance part="SUPPLY30" gate="GND" x="566.42" y="49.784" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="568.325" y="46.609" size="1.778" layer="96" rot="MR0"/>
@@ -21532,8 +21534,8 @@ I2C - BMP280</text>
 <instance part="LED9" gate="G$1" x="489.204" y="238.252" smashed="yes">
 <attribute name="NAME" x="492.76" y="233.68" size="1.778" layer="95" rot="R90"/>
 </instance>
-<instance part="P+10" gate="1" x="690.88" y="60.96" smashed="yes">
-<attribute name="VALUE" x="693.42" y="63.5" size="1.778" layer="96" rot="R180"/>
+<instance part="P+10" gate="1" x="688.34" y="60.96" smashed="yes">
+<attribute name="VALUE" x="690.88" y="63.5" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="C5" gate="G$1" x="459.74" y="137.16" smashed="yes">
 <attribute name="NAME" x="456.438" y="139.319" size="1.778" layer="95" rot="R180"/>
@@ -21578,8 +21580,8 @@ I2C - BMP280</text>
 <instance part="+3V12" gate="G$1" x="670.052" y="114.046" smashed="yes">
 <attribute name="VALUE" x="672.592" y="116.586" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="+3V13" gate="G$1" x="739.14" y="124.46" smashed="yes">
-<attribute name="VALUE" x="741.68" y="127" size="1.778" layer="96" rot="R180"/>
+<instance part="+3V13" gate="G$1" x="736.6" y="124.46" smashed="yes">
+<attribute name="VALUE" x="739.14" y="127" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="P+4" gate="1" x="389.382" y="104.648" smashed="yes">
 <attribute name="VALUE" x="391.922" y="107.188" size="1.778" layer="96" rot="R180"/>
@@ -21627,9 +21629,9 @@ I2C - BMP280</text>
 <instance part="P2" gate="1" x="485.14" y="160.02" smashed="yes" rot="R180">
 <attribute name="NAME" x="486.41" y="151.638" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="POT2" gate="1" x="739.14" y="114.3" smashed="yes">
-<attribute name="NAME" x="733.171" y="110.49" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="735.33" y="110.49" size="1.778" layer="96" rot="R90"/>
+<instance part="POT2" gate="1" x="736.6" y="114.3" smashed="yes">
+<attribute name="NAME" x="730.631" y="110.49" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="732.79" y="110.49" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="JP1" gate="G$1" x="468.63" y="196.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="469.9" y="191.008" size="1.778" layer="95" rot="R180"/>
@@ -21644,7 +21646,7 @@ I2C - BMP280</text>
 <attribute name="VALUE" x="590.296" y="43.434" size="1.27" layer="96"/>
 <attribute name="NAME" x="590.042" y="69.85" size="1.27" layer="95"/>
 </instance>
-<instance part="Q1" gate="A1" x="701.04" y="55.88" smashed="yes"/>
+<instance part="Q1" gate="A1" x="698.5" y="55.88" smashed="yes"/>
 <instance part="LCD1" gate="G$1" x="532.892" y="22.606" smashed="yes">
 <attribute name="NAME" x="532.892" y="71.374" size="1.27" layer="95"/>
 </instance>
@@ -21666,8 +21668,8 @@ I2C - BMP280</text>
 <attribute name="NAME" x="475.996" y="101.854" size="1.778" layer="95"/>
 </instance>
 <instance part="M2" gate="G$1" x="680.466" y="170.434" smashed="yes">
-<attribute name="NAME" x="688.848" y="226.822" size="1.778" layer="95"/>
-<attribute name="VALUE" x="688.594" y="170.434" size="1.778" layer="96"/>
+<attribute name="NAME" x="691.388" y="226.822" size="1.778" layer="95"/>
+<attribute name="VALUE" x="680.974" y="170.434" size="1.778" layer="96"/>
 </instance>
 <instance part="POT1" gate="1" x="501.904" y="58.166" smashed="yes">
 <attribute name="NAME" x="495.935" y="54.356" size="1.778" layer="95" rot="R90"/>
@@ -21775,7 +21777,7 @@ I2C - BMP280</text>
 </segment>
 <segment>
 <pinref part="SUPPLY28" gate="GND" pin="GND"/>
-<wire x1="739.14" y1="106.68" x2="739.14" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="736.6" y1="106.68" x2="736.6" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="POT2" gate="1" pin="A"/>
 </segment>
 <segment>
@@ -22013,7 +22015,7 @@ I2C - BMP280</text>
 <pinref part="P+1" gate="1" pin="+5V"/>
 </segment>
 <segment>
-<wire x1="690.88" y1="58.42" x2="690.88" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="688.34" y1="58.42" x2="688.34" y2="55.88" width="0.1524" layer="91"/>
 <pinref part="P+10" gate="1" pin="+5V"/>
 <pinref part="Q1" gate="A1" pin="VI"/>
 </segment>
@@ -22290,8 +22292,8 @@ I2C - BMP280</text>
 </net>
 <net name="PE3_PB0" class="0">
 <segment>
-<wire x1="744.22" y1="114.3" x2="751.84" y2="114.3" width="0.1524" layer="91"/>
-<label x="744.22" y="114.3" size="1.778" layer="95"/>
+<wire x1="741.68" y1="114.3" x2="749.3" y2="114.3" width="0.1524" layer="91"/>
+<label x="741.68" y="114.3" size="1.778" layer="95"/>
 <pinref part="POT2" gate="1" pin="S"/>
 </segment>
 <segment>
@@ -22307,8 +22309,8 @@ I2C - BMP280</text>
 </net>
 <net name="PE2_PB1" class="0">
 <segment>
-<wire x1="711.2" y1="55.88" x2="718.82" y2="55.88" width="0.1524" layer="91"/>
-<label x="711.2" y="55.88" size="1.778" layer="95"/>
+<wire x1="708.66" y1="55.88" x2="716.28" y2="55.88" width="0.1524" layer="91"/>
+<label x="708.66" y="55.88" size="1.778" layer="95"/>
 <pinref part="Q1" gate="A1" pin="VO"/>
 </segment>
 <segment>
@@ -22548,17 +22550,17 @@ I2C - BMP280</text>
 <net name="N$13" class="0">
 <segment>
 <wire x1="637.794" y1="30.48" x2="637.794" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="637.794" y1="81.28" x2="683.26" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="683.26" y1="81.28" x2="683.26" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="683.26" y1="30.48" x2="637.794" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="637.794" y1="81.28" x2="678.18" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="678.18" y1="81.28" x2="678.18" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="678.18" y1="30.48" x2="637.794" y2="30.48" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$14" class="0">
 <segment>
-<wire x1="685.8" y1="30.48" x2="685.8" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="685.8" y1="81.28" x2="721.36" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="680.72" y1="30.48" x2="680.72" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="680.72" y1="81.28" x2="721.36" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="721.36" y1="81.28" x2="721.36" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="721.36" y1="30.48" x2="685.8" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="721.36" y1="30.48" x2="680.72" y2="30.48" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$16" class="0">
@@ -22863,7 +22865,7 @@ I2C - BMP280</text>
 <pinref part="+3V11" gate="G$1" pin="+3V3"/>
 </segment>
 <segment>
-<wire x1="739.14" y1="119.38" x2="739.14" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="736.6" y1="119.38" x2="736.6" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="+3V13" gate="G$1" pin="+3V3"/>
 <pinref part="POT2" gate="1" pin="E"/>
 </segment>
