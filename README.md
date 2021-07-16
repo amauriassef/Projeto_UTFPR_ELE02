@@ -36,8 +36,9 @@
    * [2.2 Placa Blue Pill](#22-placa-Blue-Pill)
    * [2.3 Placa Black Pill](#23-placa-Black-Pill)
 - [3. Site do projeto](#3-Site-do-projeto)  
-- [4. Como citar este trabalho](#4-Como-citar-este-trabalho)  
-- [5. Informação de licença](#5-Informação-de-licença)  
+- [4. Site para download do software Eagle](#4-Site-para-download-do-software-Eagle)
+- [5. Como citar este trabalho](#5-Como-citar-este-trabalho)  
+- [6. Informação de licença](#6-Informação-de-licença)  
 
 # 1. Projeto UTFPR ELE02 
 
@@ -364,20 +365,20 @@ Observação NC significa não conectado.
 * [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
 
-# 4. Site para download do software Eagle
+# 3. Site para download do software Eagle
 
-https://www.autodesk.com/products/eagle/free-download
+* Link: https://www.autodesk.com/products/eagle/free-download
 
-# 3. Site do projeto
+# 4. Site do projeto
 
 O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do curso de Engenharia de Controle e Automação da UTFPR Campus Cornélio Procópio.
 * Link: https://ele002.wordpress.com/   
 
-# 4. Como citar este trabalho
+# 5. Como citar este trabalho
 
 ASSEF, Amauri Amorin; MORITZ, Guilherme Luiz; BANDEIRA JUNIOR, Delvanei Gomes; PERON, Guilherme de Santi; KASTER, Maurício dos Santos; OLIVEIRA, Murilo Paulo de; PEREIRA, Cáled Tarique. Projeto aberto da placa MICROTB_UTFPR (V1.0) para conexão com as plataformas de avaliação de microcontroladores baseados em ARM Tiva LaunchPad e Blue Pill. Curitiba: UTFPR, 2021. 
 
-# 5. Informação de licença 
+# 6. Informação de licença 
 
 ![Licença Logo](/Figuras/by-nc-sa.png)
 
