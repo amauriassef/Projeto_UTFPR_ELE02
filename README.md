@@ -376,4 +376,5 @@ ASSEF, Amauri Amorin; MORITZ, Guilherme Luiz; BANDEIRA JUNIOR, Delvanei Gomes; P
 # 5. Informação de licença 
 
 ![Licença Logo](/Figuras/by-nc-sa.png)
+
 Esta obra está licenciada com uma Licença Creative Commons BY-NC-SA 4.0. Esta licença permite que outros remixem, adaptem e criem a partir do trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos. Conteúdos elaborados por terceiros, citados e referenciados nesta obra não são cobertos pela licença. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/
