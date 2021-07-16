@@ -35,9 +35,9 @@
      + [2.1.1 Links do professor Jonathan W Valvano](#211-Links-do-professor-Jonathan-W-Valvano)
    * [2.2 Placa Blue Pill](#22-placa-Blue-Pill)
    * [2.3 Placa Black Pill](#23-placa-Black-Pill)
-- [3. Informação de licença](#3-Informação-de-licença)  
-- [4. Site do projeto](#4-Site-do-projeto)  
-- [5. Como citar este trabalho](#5-Como-citar-este-trabalho)  
+- [3. Site do projeto](#3-Site-do-projeto)  
+- [4. Como citar este trabalho](#4-Como-citar-este-trabalho)  
+- [5. Informação de licença](#5-Informação-de-licença)  
 
 # 1. Projeto UTFPR ELE02 
 
@@ -364,17 +364,16 @@ Observação NC significa não conectado.
 * [Blackpill - Reference Manual do STM32F411RE](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411xc-e-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blackpill - Documentação da API do STM32F4](https://www.st.com/resource/en/user_manual/dm00105879-description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf)
 
-# 3. Informação de licença 
-
-Este material está licenciado com uma Licença CC BY-NC-SA 4.0. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/.
-
-![Licença Logo](/Figuras/by-nc-sa.png)
-
-# 4. Site do projeto
+# 3. Site do projeto
 
 O site do projeto foi desenvolvido pelo estudante *Cáled Tarique Pereira* do curso de Engenharia de Controle e Automação da UTFPR Campus Cornélio Procópio.
 * Link: https://ele002.wordpress.com/   
 
-# 5. Como citar este trabalho
+# 4. Como citar este trabalho
 
 ASSEF, Amauri Amorin; MORITZ, Guilherme Luiz; BANDEIRA JUNIOR, Delvanei Gomes; PERON, Guilherme de Santi; KASTER, Maurício dos Santos; OLIVEIRA, Murilo Paulo de; PEREIRA, Cáled Tarique. Projeto aberto da placa MICROTB_UTFPR (V1.0) para conexão com as plataformas de avaliação de microcontroladores baseados em ARM Tiva LaunchPad e Blue Pill. Curitiba: UTFPR, 2021. 
+
+# 5. Informação de licença 
+
+![Licença Logo](/Figuras/by-nc-sa.png)
+Esta obra está licenciada com uma Licença Creative Commons BY-NC-SA 4.0. Esta licença permite que outros remixem, adaptem e criem a partir do trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos. Conteúdos elaborados por terceiros, citados e referenciados nesta obra não são cobertos pela licença. Para ver uma cópia da licença, visite http://creativecommons.org/licenses/by-nc-sa/4.0/
