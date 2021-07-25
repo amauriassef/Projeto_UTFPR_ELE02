@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/microtb_utfpr_v1_pcb.png"/>
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/microtb_utfpr_v1_pcb_top_1.png"/>
-  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/pcb_fabricada.jpg"/>
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/PCB_fabricada.jpg"/>
 </p>
 
 - [1. Projeto UTFPR ELE02](#1-Projeto-UTFPR-ELE02)
