@@ -357,6 +357,7 @@ Observação NC significa não conectado.
 * [Blue Pill - Datasheet do STM32F103C8](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
 * [Blue Pill - Reference Manual do STM32F103C8](https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blue Pill - Documentação da API do STM32F1](https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
+* [Página embeddedexpert.io - Exemplos de códigos](https://embeddedexpert.io/)
 
 ## 2.3 Placa BlackPill
 
