@@ -358,8 +358,8 @@ Observação NC significa não conectado.
 * [Blue Pill - Reference Manual do STM32F103C8](https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 * [Blue Pill - Documentação da API do STM32F1](https://www.st.com/resource/en/user_manual/dm00154093-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
 * [Página embeddedexpert.io - Exemplos de códigos](https://embeddedexpert.io/)
-* [Tutorial de instalação do ambiente de dupuração/programação](https://drive.google.com/file/d/1uLPW_LXY3d8g-7BL5YjpZ9rex4Q9JGck/view?usp=sharing)
-* [Vídeo tutorial de instalação do ambiente de dupuração/programação](https://youtu.be/wEANQKCs-E4)
+* [Tutorial de instalação do ambiente de dupuração/programação - Prof. Guilherme L. Moritz](https://drive.google.com/file/d/1uLPW_LXY3d8g-7BL5YjpZ9rex4Q9JGck/view?usp=sharing)
+* [Vídeo tutorial de instalação do ambiente de dupuração/programação - Prof. Guilherme L. Moritz](https://youtu.be/wEANQKCs-E4)
 
 ## 2.3 Placa BlackPill
 
