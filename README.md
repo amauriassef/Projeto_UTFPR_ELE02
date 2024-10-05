@@ -126,10 +126,10 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 
 ### 1.6.1. Descrição dos sinais da placa MICROTB_UTFPR
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-|J1-1	        |1                          |	3,3 V     |	18, 21                        |	3,3 V         |	+3V3(TB)           |	Alimentação|	Alimentação|
-|J1-2         |3                          |	PB5       |	10                            |	PA5           |	PB5_PA5            |	LED6, SEG_F e LCD_D5       | OUT    |     
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                           |:---:            |:---:              |:---:              |:---:        |:---:        |
+|J1-1	        |1                          |	3,3 V     |	18, 21                         |	3,3 V          |	3,3 V            |	+3V3(TB)         |	Alimentação|	Alimentação|
+|J1-2         |3                          |	PB5       |	10                             |	PA5            |	PA6              |	PB5_PA5          |	LED6, SEG_F e LCD_D5       | OUT    |  
 |J1-3	|5	|PB0	|5	|PA0	|PB0_PA0	|LED1 e SEG_A|	OUT|
 |J1-4	|7	|PB1	|6	|PA1	|PB1_PA1	|LED2 e SEG_B|	OUT|
 |J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|ESP_TX, BLUETOOTH_TX e BMP280	|IN|
