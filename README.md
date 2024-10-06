@@ -165,8 +165,8 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 |J4-5	|29	|PC5	|26	|PB7	|PB7 |PC5_PB7	|SERVO e L293D_EN	|OUT (PWM)|
 |J4-6	|31	|PC6	|38	|PB14 |PB14	|PC6_PB14	|L293D_M1	|OUT|
 |J4-7	|33	|PC7	|37	|PB15	|PB15 |PC7_PB15	|L293D_M2	|OUT|
-|J4-8	|35	|PD6	|-	|-	|-	|-	|NC|
-|J4-9	|37	|PD7	|-	|-	|-	|-	|NC|
+|J4-8	|35	|PD6	|-	|-	|-	|-	|-	|NC|
+|J4-9	|37	|PD7	|-	|-	|-	|-	|-	|NC|
 |J4-10	|39	|PF4	|25	|PB8	|PB8 |PF4_PB8	|SW1	|IN|
 
 Observação NC significa não conectado. 
