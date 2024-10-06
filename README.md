@@ -169,7 +169,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 |J4-9	|37	|PD7	|-	|-	|-	|-	|-	|NC|
 |J4-10	|39	|PF4	|25	|PB8	|PB8 |PF4_PB8	|SW1	|IN|
 
-Observação NC significa não conectado. 
+NC - não conectado. 
 
 ### 1.6.2. Descrição dos sinais por funcionalidade
 
@@ -317,6 +317,7 @@ Observação NC significa não conectado.
 |20	|\*GND	|GND|
 |32	|PA12	|USB+|
 |33	|PA11	|USB+|
+\*Sinal não conectado para compatibilidade com a placa BlackPill.
 
 #### 1.6.2.15 Sinais não conectados da placa Black Pill
 
@@ -328,8 +329,6 @@ Observação NC significa não conectado.
 |20	|+5V	|+5V|
 |32	|PA12	|USB+|
 |33	|PA11	|USB+|
-
-\*Sinal não conectado para compatibilidade com a placa BlackPill.
 
 # 2. Links com informações sobre as placas de avaliação compatíveis
 
