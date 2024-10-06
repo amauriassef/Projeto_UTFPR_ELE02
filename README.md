@@ -196,8 +196,8 @@ Observação NC significa não conectado.
 
 #### 1.6.2.3 Displays de 7 segmentos multiplexados
  
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J1-8	|15	|PA5	|34	|PA10	|PA10 |PA5_PA10	|EN_DISP1	|OUT|
 |J1-9	|17	|PA6	|31	|PA15 |PA15	|PA6_PA15	|EN_DISP2	|OUT|
 |J1-3	|5	|PB0	|5	|PA0	|NRST |PB0_PA0	|SEG_A	|OUT/NC|
@@ -211,8 +211,8 @@ Observação NC significa não conectado.
 
 #### 1.6.2.4 Display LCD 16x2
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|Sinal Black Pill |	Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J2-9	|38	|PA3	|40	|PB12	|PB12 |PA3_PB12	|LCD_E	|OUT|
 |J2-10	|40	|PA2	|39	|PB13	|PB13 |PA2_PB13	|LCD_RS	|OUT|
 |J1-7	|13	|PB4	|6	|PA4	|PA3 |PB4_PA4	|LCD_D4	|OUT|
@@ -222,8 +222,8 @@ Observação NC significa não conectado.
 
 #### 1.6.2.5 Motor de passo e servomotor
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J4-5	|29	|PC5	|26	|PB7	|PB7 |PC5_PB7	|SERVO e L293D_EN	|OUT (PWM)|
 |J4-6	|31	|PC6	|38	|PB14	|PB14 |PC6_PB14	|L293D_M1	|OUT|
 |J4-7	|33	|PC7	|37	|PB15 |PB15	|PC7_PB15	|L293D_M2	|OUT|
@@ -232,22 +232,22 @@ Observação NC significa não conectado.
 
 #### 1.6.2.6 Módulo sensor de ultrassom HC-04
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J3-10	|20	|PF1	|2	|PC13	|PC13 |PF1_PC13	|US_TRIGGER	|OUT|
 |J4-4	|27	|PC4	|27	|PB6	|PB6 |PC4_PB6	|US_ECO	|IN|
 
 #### 1.6.2.7 Módulo Bluetooth HC-05 ou HC-06
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J1-5	|9	|PE4	|16	|PB11	|PB2 |PE4_PB11	|BLUETOOTH_TX	|IN|
 |J1-6	|11	|PE5	|15	|PB10	|PB1 |PE5_PB10	|BLUETOOTH_RX	|OUT|
 
 #### 1.6.2.8 Módulo WiFi ESP8266
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J2-3	|26	|PE0	|29	|PB4	|PB4	|PE0_PB4	|ESP_GPIO02	|OUT|
 |J3-7	|14	|PE1	|30	|PB3	|PB3	|PE1_PB3	|ESP_RST	|OUT|
 |J1-5	|9	|PE4	|16	|PB11	|PB2	|PE4_PB11	|ESP_TX	|IN|
@@ -255,8 +255,8 @@ Observação NC significa não conectado.
 
 #### 1.6.2.9 Módulo I2C sensor de pressão BMP280
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J1-5	|9	|PE4	|16	|PB11	|PB2 |PE4_PB11	|BMP280_SCL	|IN
 |J1-6	|11	|PE5	|15	|PB10	|PB1 |PE5_PB10	|BMP280_SDA	|OUT
 
@@ -264,8 +264,8 @@ Observação NC significa não conectado.
 
 #### 1.6.2.10 Sinais analógicos
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
+|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
+|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J3-8	|16	|PE2	|14	|PB1	|PB0 |PE2_PB1	|LM35	|IN (ADC)|
 |J3-9	|18	|PE3	|13	|PB0	|PA7 |PE3_PB0	|Trimpot	|IN (ADC)|
 
