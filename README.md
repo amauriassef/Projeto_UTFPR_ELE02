@@ -148,7 +148,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 |J2-8	|36	|PA4	|28	|PB5	|PB5 |PA4_PB5	|EN_LEDS	|OUT|
 |J2-9	|38	|PA3	|40	|PB12	|PB12 |PA3_PB12	|LCD_E	|OUT|
 |J2-10	|40	|PA2	|39	|PB13	|PB13 |PA2_PB13	|LCD_RS	|OUT|
-|J3-1	|2	|5,0 V	|23	|5,0 V	|+5V(TB)	|Alimentação	|Alimentação|
+|J3-1	|2	|5,0 V	|23	|5,0 V	|5,0 V |+5V(TB)	|Alimentação	|Alimentação|
 |J3-2	|4	|GND	|19, 22	|GND	|GND	|Alimentação	|Alimentação|
 |J3-3	|6	|PD0/PB6	|-	|-	|-	|-	|NC|
 |J3-4	|8	|PD1/PB7	|-	|-	|-	|-	|NC|
