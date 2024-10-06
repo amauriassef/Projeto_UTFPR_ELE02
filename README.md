@@ -133,7 +133,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 |J1-3       	|5	                        |PB0	      |5	                             |PA0	|NRST	|PB0_PA0	|LED1 e SEG_A|	OUT/NC|
 |J1-4	|7	|PB1	|6	|PA1	|PA0  |PB1_PA1	|LED2 e SEG_B|	OUT|
 |J1-5	|9	|PE4	|16	|PB11	|PB2 |PE4_PB11	|ESP_TX, BLUETOOTH_TX e BMP280	|IN|
-|J1-6	|11	|PE5	|15	|PB10	|PA0 |PE5_PB10	|ESP_RX, BLUETOOTH_RX e BMP280	|OUT|
+|J1-6	|11	|PE5	|15	|PB10	|PB1 |PE5_PB10	|ESP_RX, BLUETOOTH_RX e BMP280	|OUT|
 |J1-7	|13	|PB4	|6	|PA4 |PA3	|PB4_PA4	|LED5, SEG_E e LCD_D4	|OUT|
 |J1-8	|15	|PA5	|34	|PA10 |PA10	|PA5_PA10	|EN_DISP1	|OUT|
 |J1-9	|17	|PA6	|31	|PA15 |PA15	|PA6_PA15	|EN_DISP2	|OUT|
