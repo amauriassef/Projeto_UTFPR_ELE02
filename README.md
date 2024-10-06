@@ -178,7 +178,7 @@ Observação NC significa não conectado.
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
 |J2-8	|36	|PA4	|28	|PB5	|PB5 |PA4_PB5	|EN_LEDS	|OUT|
-|J1-3	|5	|PB0	|5	|PA0	|- |PB0_PA0	|LED1	|OUT|
+|J1-3	|5	|PB0	|5	|PA0	|NRST |PB0_PA0	|LED1	|OUT/NC|
 |J1-4	|7	|PB1	|6	|PA1	|PA0 |PB1_PA1	|LED2	|OUT|
 |J2-2	|24	|PB2	|7	|PA2	|PA1 |PB2_PA2	|LED3	|OUT|
 |J4-3	|25	|PB3	|8	|PA3	|PA2 |PB3_PA3	|LED4	|OUT|
@@ -191,23 +191,23 @@ Observação NC significa não conectado.
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-|J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
-|J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN|
+|J4-10	|39	|PF4	|25	|PB8	|PB8 |PF4_PB8	|SW1	|IN|
+|J2-4	|28	|PF0	|24	|PB9	|PB9 |PF0_PB9	|SW2	|IN|
 
 #### 1.6.2.3 Displays de 7 segmentos multiplexados
  
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill |Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-|J1-8	|15	|PA5	|34	|PA10	|PA5_PA10	|EN_DISP1	|OUT|
-|J1-9	|17	|PA6	|31	|PA15	|PA6_PA15	|EN_DISP2	|OUT|
-|J1-3	|5	|PB0	|5	|PA0	|PB0_PA0	|SEG_A	|OUT|
-|J1-4	|7	|PB1	|6	|PA1	|PB1_PA1	|SEG_B	|OUT|
-|J2-2	|24	|PB2	|7	|PA2	|PB2_PA2	|SEG_C	|OUT|
-|J4-3	|25	|PB3	|8	|PA3	|PB3_PA3	|SEG_D	|OUT|
-|J1-7	|13	|PB4	|6	|PA4	|PB4_PA4	|SEG_E	|OUT|
-|J1-2	|3	|PB5	|10	|PA5	|PB5_PA5	|SEG_F	|OUT|
-|J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|SEG_G	|OUT|
-|J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|SEG_DP	|OUT|
+|J1-8	|15	|PA5	|34	|PA10	|PA10 |PA5_PA10	|EN_DISP1	|OUT|
+|J1-9	|17	|PA6	|31	|PA15 |PA15	|PA6_PA15	|EN_DISP2	|OUT|
+|J1-3	|5	|PB0	|5	|PA0	|NRST |PB0_PA0	|SEG_A	|OUT/NC|
+|J1-4	|7	|PB1	|6	|PA1	|PA0 |PB1_PA1	|SEG_B	|OUT|
+|J2-2	|24	|PB2	|7	|PA2	|PA1 |PB2_PA2	|SEG_C	|OUT|
+|J4-3	|25	|PB3	|8	|PA3	|PA2 |PB3_PA3	|SEG_D	|OUT|
+|J1-7	|13	|PB4	|6	|PA4	|PA3 |PB4_PA4	|SEG_E	|OUT|
+|J1-2	|3	|PB5	|10	|PA5	|PA4 |PB5_PA5	|SEG_F	|OUT|
+|J2-7	|34	|PB6/PD0	|11	|PA6	|PA5 |PB6_PA6	|SEG_G	|OUT|
+|J2-6	|32	|PB7/PD1	|12	|PA7	|PA6 |PB7_PA7	|SEG_DP	|OUT|
 
 #### 1.6.2.4 Display LCD 16x2
 
