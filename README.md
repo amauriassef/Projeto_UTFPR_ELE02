@@ -130,44 +130,44 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 |:---:        |:---:                      |:---:      |:---:                           |:---:            |:---:              |:---:              |:---:        |:---:        |
 |J1-1	        |1                          |	3,3 V     |	18, 21                         |	3,3 V          |	3,3 V            |	+3V3(TB)         |	Alimentação|	Alimentação|
 |J1-2         |3                          |	PB5       |	10                             |	PA5            |	PA6              |	PB5_PA5          |	LED6, SEG_F e LCD_D5       | OUT    |  
-|J1-3	|5	|PB0	|5	|PA0	|PB0_PA0	|LED1 e SEG_A|	OUT|
-|J1-4	|7	|PB1	|6	|PA1	|PB1_PA1	|LED2 e SEG_B|	OUT|
-|J1-5	|9	|PE4	|16	|PB11	|PE4_PB11	|ESP_TX, BLUETOOTH_TX e BMP280	|IN|
-|J1-6	|11	|PE5	|15	|PB10	|PE5_PB10	|ESP_RX, BLUETOOTH_RX e BMP280	|OUT|
-|J1-7	|13	|PB4	|6	|PA4	|PB4_PA4	|LED5, SEG_E e LCD_D4	|OUT|
-|J1-8	|15	|PA5	|34	|PA10	|PA5_PA10	|EN_DISP1	|OUT|
-|J1-9	|17	|PA6	|31	|PA15	|PA6_PA15	|EN_DISP2	|OUT|
-|J1-10	|19	|PA7|	-|	-	|-|	-	|NC|
+|J1-3       	|5	                        |PB0	      |5	                             |PA0	|NRST	|PB0_PA0	|LED1 e SEG_A|	OUT|
+|J1-4	|7	|PB1	|6	|PA1	|PA1  |PB1_PA1	|LED2 e SEG_B|	OUT|
+|J1-5	|9	|PE4	|16	|PB11	|PB2 |PE4_PB11	|ESP_TX, BLUETOOTH_TX e BMP280	|IN|
+|J1-6	|11	|PE5	|15	|PB10	|PA0 |PE5_PB10	|ESP_RX, BLUETOOTH_RX e BMP280	|OUT|
+|J1-7	|13	|PB4	|6	|PA4 |PA3	|PB4_PA4	|LED5, SEG_E e LCD_D4	|OUT|
+|J1-8	|15	|PA5	|34	|PA10 |PA10	|PA5_PA10	|EN_DISP1	|OUT|
+|J1-9	|17	|PA6	|31	|PA15 |PA15	|PA6_PA15	|EN_DISP2	|OUT|
+|J1-10	|19	|PA7| PA6|	-|	-	|	-	|-|	-	|NC|
 |J2-1	|22	|GND	|19, 22|	GND	|GND	|Alimentação	|Alimentação|
-|J2-2	|24	|PB2	|7	|PA2	|PB2_PA2	|LED3 e SEG_C|	OUT|
-|J2-3	|26	|PE0	|29	|PB4	|PE0_PB4	|ESP_GPIO02	|IN/OUT|
-|J2-4	|28	|PF0	|24	|PB9	|PF0_PB9	|SW2	|IN|
-|J2-5	|30	|RESET	|-	|-	|-	|-	|NC
-|J2-6	|32	|PB7/PD1	|12	|PA7	|PB7_PA7	|LED8, SEG_DP e LCD_D7	|OUT|
-|J2-7	|34	|PB6/PD0	|11	|PA6	|PB6_PA6	|LED7, SEG_G e LCD_D6	|OUT|
-|J2-8	|36	|PA4	|28	|PB5	|PA4_PB5	|EN_LEDS	|OUT|
-|J2-9	|38	|PA3	|40	|PB12	|PA3_PB12	|LCD_E	|OUT|
-|J2-10	|40	|PA2	|39	|PB13	|PA2_PB13	|LCD_RS	|OUT|
+|J2-2	|24	|PB2	|7	|PA2	|PA1 |PB2_PA2	|LED3 e SEG_C|	OUT|
+|J2-3	|26	|PE0	|29	|PB4	|PB4 |PE0_PB4	|ESP_GPIO02	|IN/OUT|
+|J2-4	|28	|PF0	|24	|PB9	|PB9 |PF0_PB9	|SW2	|IN|
+|J2-5	|30	|RESET	|-	|-	 |-	|-	|-	|NC
+|J2-6	|32	|PB7/PD1	|12	|PA7	|PA6 |PB7_PA7	|LED8, SEG_DP e LCD_D7	|OUT|
+|J2-7	|34	|PB6/PD0	|11	|PA6	|PA5 |PB6_PA6	|LED7, SEG_G e LCD_D6	|OUT|
+|J2-8	|36	|PA4	|28	|PB5	|PB5 |PA4_PB5	|EN_LEDS	|OUT|
+|J2-9	|38	|PA3	|40	|PB12	|PB12 |PA3_PB12	|LCD_E	|OUT|
+|J2-10	|40	|PA2	|39	|PB13	|PB13 |PA2_PB13	|LCD_RS	|OUT|
 |J3-1	|2	|5,0 V	|23	|5,0 V	|+5V(TB)	|Alimentação	|Alimentação|
 |J3-2	|4	|GND	|19, 22	|GND	|GND	|Alimentação	|Alimentação|
 |J3-3	|6	|PD0/PB6	|-	|-	|-	|-	|NC|
 |J3-4	|8	|PD1/PB7	|-	|-	|-	|-	|NC|
-|J3-5	|10	|PD2	|36	|PA8	|PD2_PA8	|L293D_M3	|OUT|
-|J3-6	|12	|PD3	|35	|PA9	|PD3_PA9	|L293D_M4	|OUT|
-|J3-7	|14	|PE1	|30	|PB3	|PE1_PB3	|ESP_RST	| OUT|
-|J3-8	|16	|PE2	|14	|PB1	|PE2_PB1	|LM35	|IN (ADC)|
-|J3-9	|18	|PE3	|13	|PB0	|PE3_PB0	|Trimpot	|IN (ADC)|
-|J3-10	|20	|PF1	|2	|PC13	|PF1_PC13	|US_TRIGGER	|OUT|
+|J3-5	|10	|PD2	|36	|PA8	|PA8 |PD2_PA8	|L293D_M3	|OUT|
+|J3-6	|12	|PD3	|35	|PA9	|PA9 |PD3_PA9	|L293D_M4	|OUT|
+|J3-7	|14	|PE1	|30	|PB3	|PB3 |PE1_PB3	|ESP_RST	| OUT|
+|J3-8	|16	|PE2	|14	|PB1	|PB0 |PE2_PB1	|LM35	|IN (ADC)|
+|J3-9	|18	|PE3	|13	|PB0	|PA7 |PE3_PB0	|Trimpot	|IN (ADC)|
+|J3-10	|20	|PF1	|2	|PC13	|PC13 |PF1_PC13	|US_TRIGGER	|OUT|
 |J4-1	|21	|PF2	|-	|-	|-	|-	|NC|
 |J4-2	|23	|PF3	|-	|-	|-	|-	|NC|
-|J4-3	|25	|PB3	|8	|PA3	|PB3_PA3	|LED4 e SEG_D	|OUT|
-|J4-4	|27	|PC4	|27|	PB6	|PC4_PB6	|US_ECO	|IN|
-|J4-5	|29	|PC5	|26	|PB7	|PC5_PB7	|SERVO e L293D_EN	|OUT (PWM)|
-|J4-6	|31	|PC6	|38	|PB14	|PC6_PB14	|L293D_M1	|OUT|
-|J4-7	|33	|PC7	|37	|PB15	|PC7_PB15	|L293D_M2	|OUT|
+|J4-3	|25	|PB3	|8	|PA3	|PA2 |PB3_PA3	|LED4 e SEG_D	|OUT|
+|J4-4	|27	|PC4	|27|	PB6	|	PB6 |PC4_PB6	|US_ECO	|IN|
+|J4-5	|29	|PC5	|26	|PB7	|PB7 |PC5_PB7	|SERVO e L293D_EN	|OUT (PWM)|
+|J4-6	|31	|PC6	|38	|PB14 |PB14	|PC6_PB14	|L293D_M1	|OUT|
+|J4-7	|33	|PC7	|37	|PB15	|PB15 |PC7_PB15	|L293D_M2	|OUT|
 |J4-8	|35	|PD6	|-	|-	|-	|-	|NC|
 |J4-9	|37	|PD7	|-	|-	|-	|-	|NC|
-|J4-10	|39	|PF4	|25	|PB8	|PF4_PB8	|SW1	|IN|
+|J4-10	|39	|PF4	|25	|PB8	|PB8 |PF4_PB8	|SW1	|IN|
 
 Observação NC significa não conectado. 
 
