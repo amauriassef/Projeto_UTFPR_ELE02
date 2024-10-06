@@ -189,9 +189,9 @@ Observação NC significa não conectado.
 
 #### 1.6.2.2 Chaves push-button
 
-|Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
-|:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:               |:---:        |:---:        |
-|J4-10	|39	|PF4	|25	|PB8	|PB8 |PF4_PB8	|SW1	|IN|
+|Conector TIVA|	Pino do conector M1 (Tiva) |	Sinal Tiva |	Pino do conector M2 (Blue Pill) |	Sinal Blue Pill |	Sinal Black Pill | Nome do sinal final |	Interface  |	Direção  |
+|:---:        |:---:                       |:---:        |  :---:                           |:---:            |:---:             |:---:                |:---:        |           |
+|J4-10	      |39	                         |PF4	         |25	                              |PB8	            |PB8               |PF4_PB8	             |SW1	         |IN         |
 |J2-4	|28	|PF0	|24	|PB9	|PB9 |PF0_PB9	|SW2	|IN|
 
 #### 1.6.2.3 Displays de 7 segmentos multiplexados
