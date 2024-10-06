@@ -317,7 +317,9 @@ NC - não conectado.
 |20	|\*GND	|GND|
 |32	|PA12	|USB+|
 |33	|PA11	|USB+|
+
 \*Sinal não conectado para compatibilidade com a placa BlackPill.
+NRST - cortar o pino NRST
 
 #### 1.6.2.15 Sinais não conectados da placa Black Pill
 
@@ -329,6 +331,8 @@ NC - não conectado.
 |20	|+5V	|+5V|
 |32	|PA12	|USB+|
 |33	|PA11	|USB+|
+
+NRST - cortar o pino NRST
 
 # 2. Links com informações sobre as placas de avaliação compatíveis
 
