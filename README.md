@@ -319,6 +319,7 @@ NC - não conectado.
 |33	|PA11	|USB+|
 
 \*Sinal não conectado para compatibilidade com a placa BlackPill.
+
 NRST - cortar o pino NRST
 
 #### 1.6.2.15 Sinais não conectados da placa Black Pill
