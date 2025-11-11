@@ -146,7 +146,7 @@ Obs: após abrir o arquivo da placa (board) no software Autodesk Eagle versão 9
 |J2-6	|32	|PB7/PD1	|12	|PA7	|PA6 |PB7_PA7	|LED8, SEG_DP e LCD_D7	|OUT|
 |J2-7	|34	|PB6/PD0	|11	|PA6	|PA5 |PB6_PA6	|LED7, SEG_G e LCD_D6	|OUT|
 |J2-8	|36	|PA4	|28	|PB5	|PB5 |PA4_PB5	|EN_LEDS	|OUT|
-|J2-9	|38	|PA3	|40	|PB12	|PB12 |PA3_PB12	|LCD_E	|OUT|
+|J2-9	|38	|PA3	|40	|PB12	|PB12 |PA3_PB12	|LCD_EN	|OUT|
 |J2-10	|40	|PA2	|39	|PB13	|PB13 |PA2_PB13	|LCD_RS	|OUT|
 |J3-1	|2	|5,0 V	|23	|5,0 V	|5,0 V |+5V(TB)	|Alimentação	|Alimentação|
 |J3-2	|4	|GND	|19, 22	|GND	|GND |GND	|Alimentação	|Alimentação|
@@ -213,7 +213,7 @@ NC - não conectado.
 
 |Conector TIVA|	Pino do conector M1 (Tiva)|	Sinal Tiva|	Pino do conector M2 (Blue Pill)|	Sinal Blue Pill|	Sinal Black Pill | Nome do sinal final|	Interface  |	Direção    |
 |:---:        |:---:                      |:---:      |:---:                          |:---:          |:---:           |:---:      |:---:        |:---:        |
-|J2-9	|38	|PA3	|40	|PB12	|PB12 |PA3_PB12	|LCD_E	|OUT|
+|J2-9	|38	|PA3	|40	|PB12	|PB12 |PA3_PB12	|LCD_EN	|OUT|
 |J2-10	|40	|PA2	|39	|PB13	|PB13 |PA2_PB13	|LCD_RS	|OUT|
 |J1-7	|13	|PB4	|6	|PA4	|PA3 |PB4_PA4	|LCD_D4	|OUT|
 |J1-2	|3	|PB5	|10	|PA5	|PA4 |PB5_PA5	|LCD_D5	|OUT|
