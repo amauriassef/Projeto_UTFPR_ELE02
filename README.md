@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/Placa_Micro_TB_montada.jpg"/>
   <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/Placa_Micro_TB_BluePill.jpg"/>
+  <img src="https://github.com/amauriassef/Projeto_UTFPR_ELE02/blob/main/Figuras/Placa_Micro_TB_BlackPill.png"/>
 </p>
 
 - [1. Projeto UTFPR ELE02](#1-Projeto-UTFPR-ELE02)
